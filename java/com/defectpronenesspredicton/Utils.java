@@ -12,13 +12,9 @@ import java.util.regex.Pattern;
 
 import com.opencsv.CSVReader;
 
+import example.nlp.Stemmer;
+
 public class Utils {
-	public static void main(String[] args) {
-		System.out.println(getLowercaseIdentifiers("internal::codeassist::select::SelectionOnQualifiedNameReference",
-				PACKAGE_IDENTIFIER));
-		System.out.println(
-				getLowercaseIdentifiers("internal::core::dom::rewrite::ASTRewriteFormatter", PACKAGE_IDENTIFIER));
-	}
 
 	/**
 	 * Read records from a csv file
@@ -42,34 +38,4 @@ public class Utils {
 		return records;
 	}
 
-	public static List<String> getLowercaseIdentifiers(String text, int mode) {
-		List<String> output = new ArrayList<String>();
-
-		// Pattern 1
-		Pattern pattern = Pattern.compile("([a-zA-Z][a-z]*)");
-		Matcher matcher = null;
-
-		if (mode == PACKAGE_IDENTIFIER) {
-			String packageName = text.substring(0, text.lastIndexOf("::"));
-			matcher = pattern.matcher(packageName);
-
-		} else if (mode == CLASS_IDENTIFIER) {
-			String className = text.substring(text.lastIndexOf("::"));
-			matcher = pattern.matcher(className);
-
-		} else if (mode == FULL_IDENTIFIER) {
-			matcher = pattern.matcher(text);
-		}
-
-		if (matcher != null)
-			while (matcher.find()) {
-				if (matcher.group(0).toLowerCase().length() > 1)
-					output.add(matcher.group(0).toLowerCase());
-			}
-		return output;
-	}
-
-	public static final int PACKAGE_IDENTIFIER = 0;
-	public static final int CLASS_IDENTIFIER = 1;
-	public static final int FULL_IDENTIFIER = 1;
 }

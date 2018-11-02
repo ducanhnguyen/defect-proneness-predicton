@@ -1,35 +1,13 @@
-package com.defectpronenesspredicton;
+package com.defectpronenesspredicton.object;
 
-public class Stem {
-	private String lowercaseIdentifier;
+public abstract class AbstractTermRoot implements ITermRoot {
+
 	private int tp = 0;
 	private int fp = 0;
 	private int tn = 0;
 	private int fn = 0;
 
-	public Stem(String lowercaseIdentifier) {
-		this.lowercaseIdentifier = lowercaseIdentifier;
-	}
-
-	public void setLowercaseIdentifier(String identifier) {
-		this.lowercaseIdentifier = identifier;
-	}
-
-	public String getLowercaseIdentifier() {
-		return lowercaseIdentifier;
-	}
-
-	@Override
-	public boolean equals(Object arg0) {
-		if (!(arg0 instanceof Stem))
-			return false;
-		else
-			return lowercaseIdentifier.equals(((Stem) arg0).getLowercaseIdentifier());
-	}
-
-	@Override
-	public String toString() {
-		return "(" + lowercaseIdentifier + ", Fscore: " + getFscore() + ")";
+	public AbstractTermRoot() {
 	}
 
 	public int getTp() {
@@ -79,4 +57,5 @@ public class Stem {
 	public double getFscore() {
 		return 1.0f * 2 / (1 / getPrecision() + 1 / getRecall());
 	}
+
 }

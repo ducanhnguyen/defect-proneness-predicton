@@ -15,7 +15,7 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/nlp_standford/ejml-0.23.jar"/>
 	<classpathentry kind="lib" path="lib/nlp_standford/protobuf.jar"/>
-	<classpathentry kind="src" output="target/classes" path="src/main/java">
+	<classpathentry kind="src" output="target/classes" path="java">
 		<attributes>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>

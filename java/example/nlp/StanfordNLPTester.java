@@ -15,7 +15,7 @@ public class StanfordNLPTester {
 		Properties props = new Properties();
 		props.put("annotators", "tokenize, ssplit, pos, lemma");
 		StanfordCoreNLP pipeline = new StanfordCoreNLP(props, false);
-		String text = "I love you. He loves her.";
+		String text = "selected select selection selective";
 		Annotation document = pipeline.process(text);
 
 		// Get all sentences in the paragraph
