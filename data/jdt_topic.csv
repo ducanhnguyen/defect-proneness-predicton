@@ -1,0 +1,998 @@
+file,loc,noc,bf,bug,buggy,document,topic,topic0,topic1,topic2,topic3,topic4
+internal::core::search::indexing::IndexBinaryFolder ,122,64,3,0,N,internal core search indexing index binary folder ,4,0,0,0,0,1
+internal::compiler::codegen::CachedIndexEntry ,4,1,0,0,N,internal compiler codegen cached index entry ,0,1,0,0,0,0
+internal::compiler::ast::ASTNode ,484,119,55,1,Y,internal compiler ast node ,0,1,0,0,0,0
+internal::compiler::lookup::MemberTypeBinding ,33,27,3,0,N,internal compiler lookup member type binding ,0,1,0,0,0,0
+internal::eval::CodeSnippetParser ,673,92,15,0,N,internal eval code snippet parser ,4,0,0,0,0,1
+internal::formatter::Location ,16,15,13,0,N,internal formatter location ,4,0,0,0,0,1
+core::dom::SingleMemberAnnotation ,87,29,5,0,N,core dom single member annotation ,2,0,0,1,0,0
+internal::compiler::parser::NLSTag ,9,6,6,0,N,internal compiler parser tag ,1,0,1,0,0,0
+internal::compiler::parser::RecoveredBlock ,250,51,7,0,N,internal compiler parser recovered block ,0,1,0,0,0,0
+internal::core::CompilationUnitElementInfo ,9,22,1,0,N,internal core compilation unit element info ,2,0,0,1,0,0
+core::dom::MemberRef ,95,24,3,0,N,core dom member ref ,2,0,0,1,0,0
+internal::core::util::Annotation ,42,10,1,0,N,internal core util annotation ,0,1,0,0,0,0
+internal::codeassist::select::SelectionOnQualifiedNameReference ,42,31,4,0,N,internal codeassist select selection on qualified name reference ,1,0,1,0,0,0
+internal::compiler::flow::LoopingFlowContext ,387,51,11,0,N,internal compiler flow looping flow context ,0,1,0,0,0,0
+internal::core::util::KeyKind ,53,12,7,0,N,internal core util key kind ,4,0,0,0,0,1
+core::dom::ChildListPropertyDescriptor ,14,8,1,0,N,core dom child list property descriptor ,4,0,0,0,0,1
+internal::compiler::ast::TypeDeclaration ,624,192,60,3,Y,internal compiler ast type declaration ,3,0,0,0,1,0
+core::dom::ASTRequestor ,20,11,2,0,N,core dom requestor ,2,0,0,1,0,0
+internal::core::search::AbstractJavaSearchScope ,0,0,1,0,N,internal core search abstract java search scope ,3,0,0,0,1,0
+core::search::SearchPattern ,1126,90,37,1,Y,core search search pattern ,3,0,0,0,1,0
+core::jdom::DOMFactory ,52,34,3,0,N,core jdom factory ,3,0,0,0,1,0
+internal::core::util::SignatureAttribute ,16,5,0,0,N,internal core util signature attribute ,0,1,0,0,0,0
+internal::core::BinaryMember ,127,42,10,1,Y,internal core binary member ,3,0,0,0,1,0
+internal::compiler::ast::MessageSend ,494,167,37,4,Y,internal compiler ast message send ,0,1,0,0,0,0
+internal::core::XMLWriter ,3,19,4,0,N,internal core writer ,2,0,0,1,0,0
+internal::compiler::parser::JavadocParser ,795,91,59,3,Y,internal compiler parser javadoc parser ,1,0,1,0,0,0
+internal::eval::CodeSnippetSingleNameReference ,591,75,16,2,Y,internal eval code snippet single name reference ,4,0,0,0,0,1
+internal::compiler::parser::RecoveredInitializer ,166,53,6,0,N,internal compiler parser recovered initializer ,0,1,0,0,0,0
+internal::core::util::WeakHashSetOfCharArray ,144,3,1,0,N,internal core util weak hash set of char array ,3,0,0,0,1,0
+internal::compiler::ast::Expression ,760,148,57,0,N,internal compiler ast expression ,0,1,0,0,0,0
+internal::compiler::classfmt::MethodInfoWithAnnotations ,35,1,0,0,N,internal compiler classfmt method info with annotations ,0,1,0,0,0,0
+internal::core::util::ConstantPool ,72,9,0,0,N,internal core util constant pool ,0,1,0,0,0,0
+internal::compiler::ast::ArrayTypeReference ,52,46,4,0,N,internal compiler ast array type reference ,3,0,0,0,1,0
+internal::compiler::impl::IntConstant ,55,36,1,0,N,internal compiler impl int constant ,0,1,0,0,0,0
+internal::core::search::matching::SuperTypeReferencePattern ,214,81,11,1,Y,internal core search matching super type reference pattern ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionOnQualifiedAllocationExpression ,32,28,0,0,N,internal codeassist complete completion on qualified allocation expression ,4,0,0,0,0,1
+core::dom::SuperFieldAccess ,96,38,10,0,N,core dom super field access ,2,0,0,1,0,0
+internal::core::ExternalPackageFragmentRoot ,56,6,5,0,N,internal core external package fragment root ,2,0,0,1,0,0
+internal::compiler::lookup::MethodScope ,378,88,24,1,Y,internal compiler lookup method scope ,0,1,0,0,0,0
+internal::compiler::CompilationResult ,245,80,22,1,Y,internal compiler compilation result ,0,1,0,0,0,0
+internal::core::util::KeyToSignature ,258,31,18,0,N,internal core util key to signature ,0,1,0,0,0,0
+internal::core::jdom::DOMType ,419,57,11,0,N,internal core jdom type ,3,0,0,0,1,0
+internal::compiler::ast::ForStatement ,343,85,18,0,N,internal compiler ast for statement ,3,0,0,0,1,0
+internal::compiler::lookup::MissingTypeBinding ,34,1,1,0,N,internal compiler lookup missing type binding ,0,1,0,0,0,0
+internal::compiler::ast::TrueLiteral ,39,23,2,0,N,internal compiler ast true literal ,0,1,0,0,0,0
+internal::codeassist::complete::CompletionOnKeyword3 ,21,10,2,0,N,internal codeassist complete completion on keyword ,4,0,0,0,0,1
+internal::formatter::FormatJavadocText ,197,6,7,0,N,internal formatter format javadoc text ,1,0,1,0,0,0
+internal::core::ImportDeclarationElementInfo ,0,9,3,0,N,internal core import declaration element info ,2,0,0,1,0,0
+internal::formatter::comment::SubstitutionTextReader ,81,6,4,0,N,internal formatter comment substitution text reader ,1,0,1,0,0,0
+internal::compiler::ast::NormalAnnotation ,45,17,2,0,N,internal compiler ast normal annotation ,0,1,0,0,0,0
+internal::compiler::lookup::SourceTypeBinding ,1461,223,74,6,Y,internal compiler lookup source type binding ,0,1,0,0,0,0
+internal::core::SetContainerOperation ,167,9,5,0,N,internal core set container operation ,3,0,0,0,1,0
+internal::compiler::lookup::AnnotationBinding ,151,11,4,0,N,internal compiler lookup annotation binding ,0,1,0,0,0,0
+internal::core::LRUCacheEnumerator ,11,14,0,0,N,internal core cache enumerator ,3,0,0,0,1,0
+internal::core::JavaModelInfo ,27,26,2,0,N,internal core java model info ,3,0,0,0,1,0
+core::dom::MethodDeclaration ,319,72,15,0,N,core dom method declaration ,2,0,0,1,0,0
+internal::core::search::matching::AndPattern ,50,49,4,1,Y,internal core search matching and pattern ,3,0,0,0,1,0
+internal::eval::CodeSnippetSuperReference ,25,25,1,0,N,internal eval code snippet super reference ,4,0,0,0,0,1
+internal::core::search::matching::OrPattern ,69,59,6,1,Y,internal core search matching or pattern ,3,0,0,0,1,0
+internal::core::util::HashSetOfArray ,109,2,1,0,N,internal core util hash set of array ,3,0,0,0,1,0
+internal::core::util::ClassFileStruct ,85,13,0,0,N,internal core util class file struct ,0,1,0,0,0,0
+internal::codeassist::select::SelectionOnSingleTypeReference ,35,36,3,0,N,internal codeassist select selection on single type reference ,1,0,1,0,0,0
+internal::compiler::env::AccessRuleSet ,62,15,9,0,N,internal compiler env access rule set ,1,0,1,0,0,0
+internal::core::search::indexing::IndexAllProject ,207,109,10,0,N,internal core search indexing index all project ,4,0,0,0,0,1
+internal::compiler::codegen::ObjectCache ,83,30,1,0,N,internal compiler codegen object cache ,0,1,0,0,0,0
+internal::core::util::ClassFileAttribute ,18,9,0,0,N,internal core util class file attribute ,0,1,0,0,0,0
+internal::compiler::ast::ForeachStatement ,451,83,24,2,Y,internal compiler ast foreach statement ,3,0,0,0,1,0
+core::dom::NodeEventHandler ,43,13,2,0,N,core dom node event handler ,2,0,0,1,0,0
+internal::eval::CodeSnippetClassFile ,166,60,12,1,Y,internal eval code snippet class file ,4,0,0,0,0,1
+internal::compiler::flow::FinallyFlowContext ,264,35,8,0,N,internal compiler flow finally flow context ,0,1,0,0,0,0
+internal::compiler::SourceJavadocParser ,107,12,6,0,N,internal compiler source javadoc parser ,0,1,0,0,0,0
+internal::compiler::lookup::UnresolvedReferenceBinding ,64,49,7,0,N,internal compiler lookup unresolved reference binding ,0,1,0,0,0,0
+internal::core::CreateImportOperation ,83,48,8,0,N,internal core create import operation ,2,0,0,1,0,0
+internal::core::builder::ReferenceCollection ,140,27,6,1,Y,internal core builder reference collection ,3,0,0,0,1,0
+internal::compiler::ast::InstanceOfExpression ,70,73,13,1,Y,internal compiler ast instance of expression ,0,1,0,0,0,0
+core::dom::NodeSearcher ,11,8,1,0,N,core dom node searcher ,1,0,1,0,0,0
+internal::core::util::AnnotationComponent ,27,5,0,0,N,internal core util annotation component ,2,0,0,1,0,0
+core::dom::BreakStatement ,59,33,6,0,N,core dom break statement ,2,0,0,1,0,0
+internal::core::ASTHolderCUInfo ,0,12,4,0,N,internal core holder info ,0,1,0,0,0,0
+internal::codeassist::complete::CompletionOnMethodReturnType ,12,10,1,0,N,internal codeassist complete completion on method return type ,4,0,0,0,0,1
+internal::compiler::ast::ImportReference ,35,43,2,0,N,internal compiler ast import reference ,3,0,0,0,1,0
+internal::core::builder::ClasspathJar ,108,40,7,0,N,internal core builder classpath jar ,0,1,0,0,0,0
+internal::eval::VariablesInfo ,25,17,1,0,N,internal eval variables info ,0,1,0,0,0,0
+internal::core::DeleteResourceElementsOperation ,90,51,10,0,N,internal core delete resource elements operation ,2,0,0,1,0,0
+internal::core::InternalNamingConventions ,377,23,9,2,Y,internal core internal naming conventions ,2,0,0,1,0,0
+internal::core::search::IndexQueryRequestor ,0,8,1,0,N,internal core search index query requestor ,3,0,0,0,1,0
+internal::compiler::flow::SwitchFlowContext ,23,41,5,0,N,internal compiler flow switch flow context ,0,1,0,0,0,0
+core::dom::LineComment ,31,18,3,0,N,core dom line comment ,1,0,1,0,0,0
+internal::compiler::ast::JavadocSingleNameReference ,30,16,10,0,N,internal compiler ast javadoc single name reference ,3,0,0,0,1,0
+internal::compiler::ast::SubRoutineStatement ,31,18,10,0,N,internal compiler ast sub routine statement ,3,0,0,0,1,0
+internal::compiler::ProcessTaskManager ,140,6,3,0,N,internal compiler process task manager ,0,1,0,0,0,0
+core::dom::SwitchStatement ,86,38,9,0,N,core dom switch statement ,2,0,0,1,0,0
+internal::core::search::matching::SuperTypeReferenceLocator ,67,21,4,1,Y,internal core search matching super type reference locator ,3,0,0,0,1,0
+internal::core::SourceMethod ,222,83,17,0,N,internal core source method ,0,1,0,0,0,0
+internal::core::hierarchy::IndexBasedHierarchyBuilder ,423,131,33,0,N,internal core hierarchy index based hierarchy builder ,3,0,0,0,1,0
+internal::core::util::CommentRecorderScanner ,10,7,0,1,Y,internal core util comment recorder scanner ,0,1,0,0,0,0
+internal::core::util::StackMapAttribute ,33,4,1,0,N,internal core util stack map attribute ,2,0,0,1,0,0
+core::dom::SuperMethodInvocation ,136,44,11,0,N,core dom super method invocation ,2,0,0,1,0,0
+internal::codeassist::complete::CompletionOnExplicitConstructorCall ,41,27,0,0,N,internal codeassist complete completion on explicit constructor call ,4,0,0,0,0,1
+internal::formatter::old::CodeFormatter ,131,18,5,0,N,internal formatter old code formatter ,4,0,0,0,0,1
+internal::compiler::lookup::CaptureBinding ,210,32,20,0,N,internal compiler lookup capture binding ,0,1,0,0,0,0
+internal::compiler::lookup::ParameterizedMethodBinding ,34,48,14,0,N,internal compiler lookup parameterized method binding ,0,1,0,0,0,0
+internal::compiler::ast::FieldDeclaration ,241,120,41,0,N,internal compiler ast field declaration ,3,0,0,0,1,0
+internal::compiler::lookup::InferenceContext ,116,4,2,0,N,internal compiler lookup inference context ,0,1,0,0,0,0
+core::dom::AssertStatement ,98,37,8,0,N,core dom assert statement ,2,0,0,1,0,0
+internal::core::search::matching::PackageDeclarationPattern ,17,48,2,1,Y,internal core search matching package declaration pattern ,3,0,0,0,1,0
+core::dom::InternalASTRewrite ,163,14,3,0,N,core dom internal rewrite ,2,0,0,1,0,0
+internal::compiler::classfmt::ClassFileReader ,724,110,27,0,N,internal compiler classfmt class file reader ,0,1,0,0,0,0
+internal::core::search::JavaSearchParticipant ,46,20,3,0,N,internal core search java search participant ,3,0,0,0,1,0
+internal::core::ImportContainer ,63,43,8,0,N,internal core import container ,3,0,0,0,1,0
+core::dom::TypeParameter ,91,35,5,0,N,core dom type parameter ,3,0,0,0,1,0
+internal::compiler::env::NameEnvironmentAnswer ,34,29,2,0,N,internal compiler env name environment answer ,3,0,0,0,1,0
+core::CompletionContext ,123,17,14,1,Y,core completion context ,4,0,0,0,0,1
+internal::core::index::EntryResult ,56,18,2,0,N,internal core index entry result ,3,0,0,0,1,0
+internal::compiler::problem::AbortCompilation ,14,25,8,0,N,internal compiler problem abort compilation ,0,1,0,0,0,0
+core::dom::SynchronizedStatement ,106,37,8,0,N,core dom synchronized statement ,2,0,0,1,0,0
+core::dom::DefaultCommentMapper ,393,44,24,0,N,core dom default comment mapper ,2,0,0,1,0,0
+internal::core::util::EnclosingMethodAttribute ,50,8,0,0,N,internal core util enclosing method attribute ,0,1,0,0,0,0
+internal::compiler::ast::ArrayInitializer ,195,71,17,0,N,internal compiler ast array initializer ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionOnMemberValueName ,9,0,0,0,N,internal codeassist complete completion on member value name ,4,0,0,0,0,1
+internal::compiler::impl::ShortConstant ,37,34,1,0,N,internal compiler impl short constant ,0,1,0,0,0,0
+internal::core::search::matching::OrLocator ,124,26,8,0,N,internal core search matching or locator ,3,0,0,0,1,0
+internal::core::OpenableElementInfo ,6,16,1,0,N,internal core openable element info ,0,1,0,0,0,0
+internal::compiler::ast::IntLiteralMinValue ,7,15,0,0,N,internal compiler ast int literal min value ,0,1,0,0,0,0
+internal::core::search::matching::AndLocator ,74,2,2,0,N,internal core search matching and locator ,3,0,0,0,1,0
+internal::compiler::codegen::CharArrayCache ,118,33,4,0,N,internal compiler codegen char array cache ,0,1,0,0,0,0
+internal::core::search::matching::MethodLocator ,526,106,57,3,Y,internal core search matching method locator ,3,0,0,0,1,0
+core::BufferChangedEvent ,18,21,0,0,N,core buffer changed event ,4,0,0,0,0,1
+internal::core::NullBuffer ,3,1,1,0,N,internal core null buffer ,0,1,0,0,0,0
+core::dom::ReturnStatement ,60,33,6,0,N,core dom return statement ,2,0,0,1,0,0
+internal::core::CopyPackageFragmentRootOperation ,223,34,12,1,Y,internal core copy package fragment root operation ,2,0,0,1,0,0
+internal::core::MultiOperation ,165,27,3,0,N,internal core multi operation ,2,0,0,1,0,0
+internal::core::ProjectReferenceChange ,77,7,3,1,Y,internal core project reference change ,3,0,0,0,1,0
+internal::compiler::ast::QualifiedSuperReference ,38,37,3,1,Y,internal compiler ast qualified super reference ,3,0,0,0,1,0
+internal::core::search::processing::JobManager ,383,115,16,0,N,internal core search processing job manager ,4,0,0,0,0,1
+internal::core::search::matching::MemberDeclarationVisitor ,142,0,1,0,N,internal core search matching member declaration visitor ,2,0,0,1,0,0
+core::dom::SimpleName ,124,57,13,0,N,core dom simple name ,4,0,0,0,0,1
+internal::eval::CodeSnippetToCuMapper ,233,75,17,0,N,internal eval code snippet to cu mapper ,4,0,0,0,0,1
+internal::core::builder::JavaBuilder ,661,166,31,0,N,internal core builder java builder ,0,1,0,0,0,0
+core::dom::AnnotationTypeDeclaration ,98,26,6,0,N,core dom annotation type declaration ,2,0,0,1,0,0
+internal::compiler::util::SimpleNameVector ,64,28,1,0,N,internal compiler util simple name vector ,0,1,0,0,0,0
+internal::core::SearchableEnvironment ,144,89,27,1,Y,internal core searchable environment ,3,0,0,0,1,0
+core::dom::LabeledStatement ,107,37,9,0,N,core dom labeled statement ,2,0,0,1,0,0
+internal::core::search::AbstractSearchScope ,12,20,1,0,N,internal core search abstract search scope ,3,0,0,0,1,0
+internal::core::hierarchy::HierarchyBuilder ,242,81,12,0,N,internal core hierarchy hierarchy builder ,3,0,0,0,1,0
+internal::compiler::ast::Argument ,132,79,13,0,N,internal compiler ast argument ,0,1,0,0,0,0
+internal::codeassist::MissingTypesGuesser ,186,3,3,0,N,internal codeassist missing types guesser ,3,0,0,0,1,0
+internal::core::util::JavaElementFinder ,89,0,1,0,N,internal core util java element finder ,0,1,0,0,0,0
+internal::compiler::flow::ConditionalFlowInfo ,145,32,4,0,N,internal compiler flow conditional flow info ,0,1,0,0,0,0
+internal::core::search::JavaWorkspaceScope ,155,46,8,0,N,internal core search java workspace scope ,3,0,0,0,1,0
+internal::core::MoveResourceElementsOperation ,9,27,2,0,N,internal core move resource elements operation ,2,0,0,1,0,0
+internal::core::BatchInitializationMonitor ,55,0,1,0,N,internal core batch initialization monitor ,0,1,0,0,0,0
+internal::compiler::util::Util ,513,86,25,1,Y,internal compiler util util ,0,1,0,0,0,0
+internal::core::CancelableProblemFactory ,9,6,6,0,N,internal core cancelable problem factory ,0,1,0,0,0,0
+internal::core::LocalVariable ,222,34,13,1,Y,internal core local variable ,3,0,0,0,1,0
+internal::compiler::ast::MethodDeclaration ,198,83,17,2,Y,internal compiler ast method declaration ,3,0,0,0,1,0
+internal::core::ResolvedBinaryType ,26,7,2,0,N,internal core resolved binary type ,3,0,0,0,1,0
+internal::compiler::lookup::InnerEmulationDependency ,4,16,0,0,N,internal compiler lookup inner emulation dependency ,0,1,0,0,0,0
+internal::core::CreateTypeOperation ,62,40,7,0,N,internal core create type operation ,2,0,0,1,0,0
+internal::core::hierarchy::RegionBasedHierarchyBuilder ,156,36,7,0,N,internal core hierarchy region based hierarchy builder ,3,0,0,0,1,0
+internal::core::util::PublicScanner ,3449,134,43,0,N,internal core util public scanner ,0,1,0,0,0,0
+internal::compiler::ast::Block ,97,50,5,0,N,internal compiler ast block ,0,1,0,0,0,0
+internal::core::search::matching::MatchLocator ,1531,380,135,5,Y,internal core search matching match locator ,3,0,0,0,1,0
+internal::compiler::ast::ExplicitConstructorCall ,364,84,21,1,Y,internal compiler ast explicit constructor call ,3,0,0,0,1,0
+core::dom::SimpleType ,72,41,9,0,N,core dom simple type ,2,0,0,1,0,0
+internal::core::dom::rewrite::ASTRewriteFormatter ,258,33,8,0,N,internal core dom rewrite rewrite formatter ,1,0,1,0,0,0
+internal::core::builder::ProblemFactory ,9,11,0,0,N,internal core builder problem factory ,0,1,0,0,0,0
+internal::core::ExternalFolderChange ,27,2,2,0,N,internal core external folder change ,4,0,0,0,0,1
+internal::compiler::ClassFilePool ,30,4,0,0,N,internal compiler class file pool ,0,1,0,0,0,0
+internal::core::hierarchy::HierarchyType ,17,13,0,0,N,internal core hierarchy hierarchy type ,3,0,0,0,1,0
+internal::compiler::batch::Main ,2557,396,117,2,Y,internal compiler batch main ,0,1,0,0,0,0
+internal::compiler::ast::CombinedBinaryExpression ,266,3,4,0,N,internal compiler ast combined binary expression ,3,0,0,0,1,0
+internal::core::util::RuntimeInvisibleAnnotationsAttribute ,22,6,0,0,N,internal core util runtime invisible annotations attribute ,0,1,0,0,0,0
+internal::antadapter::AntAdapterMessages ,12,6,1,0,N,internal antadapter ant adapter messages ,1,0,1,0,0,0
+internal::core::search::indexing::SaveIndex ,30,20,0,0,N,internal core search indexing save index ,4,0,0,0,0,1
+internal::core::JavaModel ,235,111,28,1,Y,internal core java model ,3,0,0,0,1,0
+internal::compiler::lookup::FieldBinding ,251,70,16,3,Y,internal compiler lookup field binding ,0,1,0,0,0,0
+internal::compiler::lookup::ParameterizedFieldBinding ,24,18,5,0,N,internal compiler lookup parameterized field binding ,0,1,0,0,0,0
+internal::codeassist::complete::CompletionOnPackageReference ,12,27,0,0,N,internal codeassist complete completion on package reference ,4,0,0,0,0,1
+internal::codeassist::select::SelectionOnFieldType ,10,11,1,0,N,internal codeassist select selection on field type ,1,0,1,0,0,0
+internal::compiler::lookup::ProblemBinding ,13,15,1,0,N,internal compiler lookup problem binding ,0,1,0,0,0,0
+internal::core::CreateTypeHierarchyOperation ,35,20,1,0,N,internal core create type hierarchy operation ,2,0,0,1,0,0
+core::search::MethodReferenceMatch ,13,34,9,1,Y,core search method reference match ,3,0,0,0,1,0
+internal::eval::CodeSnippetQualifiedNameReference ,551,72,9,2,Y,internal eval code snippet qualified name reference ,4,0,0,0,0,1
+internal::codeassist::complete::CompletionJavadocParser ,768,32,26,0,N,internal codeassist complete completion javadoc parser ,4,0,0,0,0,1
+core::dom::EmptyStatement ,29,29,5,0,N,core dom empty statement ,2,0,0,1,0,0
+core::dom::SimplePropertyDescriptor ,14,8,1,0,N,core dom simple property descriptor ,4,0,0,0,0,1
+internal::core::SourceRange ,28,25,1,0,N,internal core source range ,0,1,0,0,0,0
+internal::core::BinaryType ,698,182,45,1,Y,internal core binary type ,3,0,0,0,1,0
+core::search::TypeParameterDeclarationMatch ,3,2,1,0,N,core search type parameter declaration match ,3,0,0,0,1,0
+internal::core::util::LocalVariableTypeAttribute ,21,7,0,0,N,internal core util local variable type attribute ,3,0,0,0,1,0
+core::util::ByteCodeVisitorAdapter ,612,10,0,1,Y,core util byte code visitor adapter ,2,0,0,1,0,0
+internal::compiler::ast::ThisReference ,78,43,3,0,N,internal compiler ast this reference ,3,0,0,0,1,0
+internal::compiler::Compiler ,407,139,32,1,Y,internal compiler compiler ,0,1,0,0,0,0
+internal::compiler::flow::FlowContext ,379,71,17,2,Y,internal compiler flow flow context ,0,1,0,0,0,0
+internal::codeassist::complete::CompletionOnQualifiedNameReference ,36,34,5,0,N,internal codeassist complete completion on qualified name reference ,4,0,0,0,0,1
+internal::core::DeletePackageFragmentRootOperation ,120,20,3,0,N,internal core delete package fragment root operation ,2,0,0,1,0,0
+internal::compiler::ast::BreakStatement ,72,12,6,0,N,internal compiler ast break statement ,3,0,0,0,1,0
+internal::formatter::FormatJavadocBlock ,238,6,8,0,N,internal formatter format javadoc block ,1,0,1,0,0,0
+internal::compiler::classfmt::FieldInfo ,305,65,11,0,N,internal compiler classfmt field info ,0,1,0,0,0,0
+internal::codeassist::select::SelectionJavadoc ,80,5,3,0,N,internal codeassist select selection javadoc ,1,0,1,0,0,0
+internal::core::util::LineNumberAttribute ,23,13,0,0,N,internal core util line number attribute ,0,1,0,0,0,0
+internal::core::PackageFragmentRootInfo ,110,52,11,0,N,internal core package fragment root info ,2,0,0,1,0,0
+internal::core::dom::rewrite::ASTRewriteFlattener ,92,23,8,0,N,internal core dom rewrite rewrite flattener ,1,0,1,0,0,0
+core::dom::ForStatement ,117,44,11,0,N,core dom for statement ,2,0,0,1,0,0
+internal::compiler::parser::diagnose::DiagnoseParser ,2262,42,10,0,N,internal compiler parser diagnose diagnose parser ,0,1,0,0,0,0
+core::dom::ASTNode ,657,111,26,0,N,core dom node ,2,0,0,1,0,0
+internal::codeassist::InternalCompletionContext ,48,12,12,1,Y,internal codeassist internal completion context ,4,0,0,0,0,1
+internal::compiler::ast::IfStatement ,192,77,15,0,N,internal compiler ast if statement ,3,0,0,0,1,0
+core::dom::CharacterLiteral ,220,48,9,1,Y,core dom character literal ,0,1,0,0,0,0
+internal::compiler::lookup::SignatureWrapper ,47,8,0,0,N,internal compiler lookup signature wrapper ,0,1,0,0,0,0
+internal::compiler::DefaultErrorHandlingPolicies ,40,17,0,0,N,internal compiler default error handling policies ,3,0,0,0,1,0
+internal::core::search::BasicSearchEngine ,712,64,41,1,Y,internal core search basic search engine ,3,0,0,0,1,0
+internal::compiler::batch::FileFinder ,23,30,2,0,N,internal compiler batch file finder ,0,1,0,0,0,0
+internal::formatter::comment::MultiCommentRegion ,121,6,4,0,N,internal formatter comment multi comment region ,1,0,1,0,0,0
+internal::eval::CodeSnippetCompiler ,24,34,3,0,N,internal eval code snippet compiler ,4,0,0,0,0,1
+core::dom::Message ,27,10,2,0,N,core dom message ,2,0,0,1,0,0
+internal::compiler::ast::SingleNameReference ,787,149,40,6,Y,internal compiler ast single name reference ,3,0,0,0,1,0
+internal::core::Openable ,327,139,22,0,N,internal core openable ,4,0,0,0,0,1
+internal::compiler::lookup::ProblemMethodBinding ,8,22,2,0,N,internal compiler lookup problem method binding ,0,1,0,0,0,0
+internal::codeassist::impl::AssistInitializer ,13,0,1,0,N,internal codeassist impl assist initializer ,1,0,1,0,0,0
+internal::formatter::comment::SingleCommentLine ,48,2,1,0,N,internal formatter comment single comment line ,1,0,1,0,0,0
+internal::compiler::codegen::DoubleCache ,88,29,1,0,N,internal compiler codegen double cache ,0,1,0,0,0,0
+internal::core::util::LRUCache ,276,35,2,0,N,internal core util cache ,0,1,0,0,0,0
+internal::core::search::matching::DeclarationOfReferencedTypesPattern ,7,32,5,1,Y,internal core search matching declaration of referenced types pattern ,3,0,0,0,1,0
+internal::compiler::util::SimpleLookupTable ,127,6,2,0,N,internal compiler util simple lookup table ,0,1,0,0,0,0
+internal::compiler::lookup::ProblemReferenceBinding ,48,30,2,0,N,internal compiler lookup problem reference binding ,0,1,0,0,0,0
+internal::core::NamedMember ,178,21,8,0,N,internal core named member ,2,0,0,1,0,0
+internal::core::JarPackageFragmentRootInfo ,4,16,2,0,N,internal core jar package fragment root info ,2,0,0,1,0,0
+core::dom::ASTParser ,426,105,38,1,Y,core dom parser ,2,0,0,1,0,0
+internal::core::SourceMethodInfo ,12,3,0,0,N,internal core source method info ,0,1,0,0,0,0
+internal::core::JavaElementInfo ,47,24,3,0,N,internal core java element info ,0,1,0,0,0,0
+internal::core::dom::rewrite::NodeRewriteEvent ,59,8,1,0,N,internal core dom rewrite node rewrite event ,1,0,1,0,0,0
+internal::compiler::ast::AND_AND_Expression ,230,51,12,0,N,internal compiler ast expression ,0,1,0,0,0,0
+internal::core::search::indexing::SourceIndexer ,35,57,10,1,Y,internal core search indexing source indexer ,4,0,0,0,0,1
+core::dom::ThisExpression ,59,37,8,0,N,core dom this expression ,2,0,0,1,0,0
+internal::core::builder::SourceFile ,68,38,5,0,N,internal core builder source file ,0,1,0,0,0,0
+core::ElementChangedEvent ,10,29,0,0,N,core element changed event ,4,0,0,0,0,1
+internal::formatter::FormatterCommentParser ,495,12,17,5,Y,internal formatter formatter comment parser ,1,0,1,0,0,0
+core::dom::StructuralPropertyDescriptor ,44,8,1,0,N,core dom structural property descriptor ,4,0,0,0,0,1
+internal::compiler::lookup::BlockScope ,546,142,30,1,Y,internal compiler lookup block scope ,0,1,0,0,0,0
+internal::compiler::lookup::LookupEnvironment ,1069,155,44,3,Y,internal compiler lookup lookup environment ,0,1,0,0,0,0
+core::dom::BodyDeclaration ,74,39,6,0,N,core dom body declaration ,2,0,0,1,0,0
+core::dom::ConditionalExpression ,141,35,8,0,N,core dom conditional expression ,2,0,0,1,0,0
+internal::compiler::lookup::LocalVariableBinding ,177,53,8,0,N,internal compiler lookup local variable binding ,0,1,0,0,0,0
+internal::core::JavaModelOperation ,528,89,29,0,N,internal core java model operation ,3,0,0,0,1,0
+internal::core::CopyResourceElementsOperation ,516,130,26,1,Y,internal core copy resource elements operation ,2,0,0,1,0,0
+core::dom::VariableDeclarationFragment ,127,42,10,0,N,core dom variable declaration fragment ,2,0,0,1,0,0
+internal::compiler::codegen::CaseLabel ,46,26,3,0,N,internal compiler codegen case label ,0,1,0,0,0,0
+internal::core::DeleteElementsOperation ,102,59,12,0,N,internal core delete elements operation ,2,0,0,1,0,0
+internal::codeassist::select::SelectionOnMessageSend ,65,42,2,0,N,internal codeassist select selection on message send ,1,0,1,0,0,0
+internal::compiler::lookup::PackageBinding ,136,58,7,4,Y,internal compiler lookup package binding ,0,1,0,0,0,0
+internal::core::search::TypeNameMatchRequestorWrapper ,121,10,8,0,N,internal core search type name match requestor wrapper ,3,0,0,0,1,0
+core::dom::TagElement ,70,30,9,0,N,core dom tag element ,2,0,0,1,0,0
+core::dom::CompilationUnit ,344,119,38,0,N,core dom compilation unit ,2,0,0,1,0,0
+core::dom::ExpressionStatement ,72,37,8,0,N,core dom expression statement ,2,0,0,1,0,0
+internal::core::search::matching::PossibleMatch ,112,37,13,0,N,internal core search matching possible match ,3,0,0,0,1,0
+internal::compiler::lookup::ArrayBinding ,190,80,16,0,N,internal compiler lookup array binding ,0,1,0,0,0,0
+core::formatter::DefaultCodeFormatterConstants ,177,118,62,2,Y,core formatter default code formatter constants ,4,0,0,0,0,1
+internal::compiler::ast::JavadocArgumentExpression ,66,36,15,0,N,internal compiler ast javadoc argument expression ,0,1,0,0,0,0
+internal::core::jdom::DOMField ,328,41,4,0,N,internal core jdom field ,3,0,0,0,1,0
+internal::compiler::util::HashtableOfObjectToInt ,117,6,1,0,N,internal compiler util hashtable of object to int ,0,1,0,0,0,0
+core::util::ClassFileBytesDisassembler ,0,10,2,0,N,core util class file bytes disassembler ,2,0,0,1,0,0
+internal::codeassist::complete::CompletionParser ,4390,243,102,1,Y,internal codeassist complete completion parser ,4,0,0,0,0,1
+internal::core::search::matching::LocalVariableLocator ,65,28,6,1,Y,internal core search matching local variable locator ,3,0,0,0,1,0
+core::dom::PrimitiveType ,59,33,7,0,N,core dom primitive type ,2,0,0,1,0,0
+internal::compiler::impl::DoubleConstant ,39,36,1,0,N,internal compiler impl double constant ,0,1,0,0,0,0
+internal::eval::CodeSnippetEnvironment ,17,19,1,0,N,internal eval code snippet environment ,4,0,0,0,0,1
+internal::core::jdom::DOMNode ,482,37,4,0,N,internal core jdom node ,3,0,0,0,1,0
+internal::core::JarEntryResource ,57,1,2,0,N,internal core jar entry resource ,3,0,0,0,1,0
+internal::compiler::ast::LongLiteralMinValue ,7,17,0,0,N,internal compiler ast long literal min value ,0,1,0,0,0,0
+internal::eval::VariablesEvaluator ,255,45,4,0,N,internal eval variables evaluator ,4,0,0,0,0,1
+core::dom::FieldAccess ,109,41,10,0,N,core dom field access ,2,0,0,1,0,0
+internal::compiler::batch::ClasspathSourceJar ,7,5,2,0,N,internal compiler batch classpath source jar ,0,1,0,0,0,0
+internal::formatter::BinaryExpressionFragmentBuilder ,42,30,9,0,N,internal formatter binary expression fragment builder ,2,0,0,1,0,0
+internal::core::TypeParameter ,57,15,5,0,N,internal core type parameter ,3,0,0,0,1,0
+internal::core::util::AnnotationComponentValue ,131,13,2,0,N,internal core util annotation component value ,2,0,0,1,0,0
+internal::codeassist::complete::CompletionNodeFound ,3,20,1,0,N,internal codeassist complete completion node found ,4,0,0,0,0,1
+core::dom::Name ,22,23,2,0,N,core dom name ,2,0,0,1,0,0
+internal::formatter::comment::CommentRange ,136,4,2,0,N,internal formatter comment comment range ,1,0,1,0,0,0
+internal::compiler::ast::JavadocImplicitTypeReference ,91,15,9,0,N,internal compiler ast javadoc implicit type reference ,3,0,0,0,1,0
+internal::compiler::util::HashSetOfInt ,94,1,1,0,N,internal compiler util hash set of int ,0,1,0,0,0,0
+internal::core::util::MementoTokenizer ,80,8,2,0,N,internal core util memento tokenizer ,3,0,0,0,1,0
+internal::core::jdom::SimpleDOMBuilder ,104,64,9,0,N,internal core jdom simple builder ,0,1,0,0,0,0
+internal::core::util::DefaultStackMapFrame ,51,3,2,0,N,internal core util default stack map frame ,2,0,0,1,0,0
+internal::formatter::FormatJavadocNode ,27,4,6,0,N,internal formatter format javadoc node ,1,0,1,0,0,0
+internal::core::search::matching::MatchLocatorParser ,681,108,36,0,N,internal core search matching match locator parser ,3,0,0,0,1,0
+core::dom::ParenthesizedExpression ,71,35,8,0,N,core dom parenthesized expression ,2,0,0,1,0,0
+internal::compiler::AbstractAnnotationProcessorManager ,0,9,2,0,N,internal compiler abstract annotation processor manager ,0,1,0,0,0,0
+internal::compiler::lookup::UpdatedMethodBinding ,7,6,0,1,Y,internal compiler lookup updated method binding ,0,1,0,0,0,0
+core::dom::ArrayAccess ,109,35,8,0,N,core dom array access ,2,0,0,1,0,0
+internal::codeassist::complete::CompletionOnStringLiteral ,13,1,1,0,N,internal codeassist complete completion on string literal ,4,0,0,0,0,1
+internal::core::hierarchy::RegionBasedTypeHierarchy ,103,37,9,0,N,internal core hierarchy region based type hierarchy ,3,0,0,0,1,0
+internal::core::PackageFragmentRoot ,554,156,39,1,Y,internal core package fragment root ,2,0,0,1,0,0
+core::util::CompilationUnitSorter ,19,44,5,0,N,core util compilation unit sorter ,2,0,0,1,0,0
+internal::compiler::ast::Annotation ,357,77,26,1,Y,internal compiler ast annotation ,0,1,0,0,0,0
+internal::compiler::ast::JavadocFieldReference ,87,43,22,1,Y,internal compiler ast javadoc field reference ,3,0,0,0,1,0
+internal::codeassist::select::SelectionOnSingleNameReference ,40,32,3,0,N,internal codeassist select selection on single name reference ,1,0,1,0,0,0
+internal::core::dom::rewrite::RewriteEventStore ,474,24,6,0,N,internal core dom rewrite rewrite event store ,1,0,1,0,0,0
+internal::compiler::ast::EmptyStatement ,32,27,1,0,N,internal compiler ast empty statement ,3,0,0,0,1,0
+internal::compiler::ClassFile ,6113,225,69,6,Y,internal compiler class file ,0,1,0,0,0,0
+internal::core::ClasspathChange ,469,14,11,1,Y,internal core classpath change ,3,0,0,0,1,0
+internal::compiler::ast::StringLiteral ,72,37,7,0,N,internal compiler ast string literal ,0,1,0,0,0,0
+core::Signature ,841,126,37,1,Y,core signature ,0,1,0,0,0,0
+internal::compiler::classfmt::AnnotationMethodInfoWithAnnotations ,26,1,0,0,N,internal compiler classfmt annotation method info with annotations ,0,1,0,0,0,0
+internal::compiler::parser::RecoveryScanner ,191,7,6,0,N,internal compiler parser recovery scanner ,0,1,0,0,0,0
+core::dom::Type ,24,20,2,0,N,core dom type ,2,0,0,1,0,0
+core::CompletionRequestorAdapter ,42,20,0,0,N,core completion requestor adapter ,3,0,0,0,1,0
+core::compiler::InvalidInputException ,3,24,1,0,N,core compiler invalid input exception ,2,0,0,1,0,0
+internal::core::dom::rewrite::LineCommentEndOffsets ,51,2,3,0,N,internal core dom rewrite line comment end offsets ,1,0,1,0,0,0
+internal::compiler::parser::Scanner ,3449,238,85,1,Y,internal compiler parser scanner ,0,1,0,0,0,0
+internal::compiler::ast::Initializer ,81,53,4,0,N,internal compiler ast initializer ,3,0,0,0,1,0
+core::dom::VariableDeclarationStatement ,155,57,11,0,N,core dom variable declaration statement ,2,0,0,1,0,0
+internal::core::search::matching::DeclarationOfReferencedMethodsPattern ,7,30,4,1,Y,internal core search matching declaration of referenced methods pattern ,3,0,0,0,1,0
+core::compiler::CharOperation ,845,97,20,0,N,core compiler char operation ,0,1,0,0,0,0
+internal::codeassist::CompletionElementNotifier ,136,0,1,0,N,internal codeassist completion element notifier ,4,0,0,0,0,1
+internal::core::search::indexing::BinaryIndexer ,707,89,17,0,N,internal core search indexing binary indexer ,4,0,0,0,0,1
+internal::compiler::ast::CompilationUnitDeclaration ,536,96,29,2,Y,internal compiler ast compilation unit declaration ,2,0,0,1,0,0
+internal::compiler::ast::PrefixExpression ,28,35,1,0,N,internal compiler ast prefix expression ,0,1,0,0,0,0
+core::dom::DefaultValuePairBinding ,20,2,5,0,N,core dom default value pair binding ,2,0,0,1,0,0
+internal::core::search::matching::TypeDeclarationLocator ,69,17,2,1,Y,internal core search matching type declaration locator ,3,0,0,0,1,0
+internal::compiler::flow::FlowInfo ,66,42,6,0,N,internal compiler flow flow info ,0,1,0,0,0,0
+core::dom::Block ,47,28,5,0,N,core dom block ,2,0,0,1,0,0
+core::dom::MethodRefParameter ,121,24,5,0,N,core dom method ref parameter ,0,1,0,0,0,0
+internal::core::search::IndexSelector ,145,54,12,1,Y,internal core search index selector ,3,0,0,0,1,0
+internal::compiler::ast::Wildcard ,71,27,2,0,N,internal compiler ast wildcard ,3,0,0,0,1,0
+core::dom::ArrayType ,87,38,9,0,N,core dom array type ,2,0,0,1,0,0
+core::search::FieldReferenceMatch ,11,26,3,1,Y,core search field reference match ,3,0,0,0,1,0
+core::search::SearchDocument ,16,21,2,1,Y,core search search document ,3,0,0,0,1,0
+core::ToolFactory ,63,94,15,0,N,core tool factory ,3,0,0,0,1,0
+internal::core::util::DefaultBytecodeVisitor ,1585,55,9,2,Y,internal core util default bytecode visitor ,2,0,0,1,0,0
+core::dom::ThrowStatement ,72,37,8,0,N,core dom throw statement ,2,0,0,1,0,0
+internal::core::search::matching::InternalReferenceMatch ,6,0,1,1,Y,internal core search matching internal reference match ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionOnAnnotationMemberValuePair ,32,0,0,0,N,internal codeassist complete completion on annotation member value pair ,2,0,0,1,0,0
+internal::codeassist::ThrownExceptionFinder ,75,2,3,0,N,internal codeassist thrown exception finder ,4,0,0,0,0,1
+internal::core::DefaultWorkingCopyOwner ,10,22,1,0,N,internal core default working copy owner ,2,0,0,1,0,0
+internal::compiler::impl::ByteConstant ,37,34,1,0,N,internal compiler impl byte constant ,0,1,0,0,0,0
+internal::core::AnnotatableInfo ,0,0,1,0,N,internal core annotatable info ,3,0,0,0,1,0
+internal::core::util::ExceptionAttribute ,31,18,3,0,N,internal core util exception attribute ,0,1,0,0,0,0
+core::dom::Initializer ,125,52,11,0,N,core dom initializer ,2,0,0,1,0,0
+internal::codeassist::impl::AssistImportContainer ,10,0,1,0,N,internal codeassist impl assist import container ,1,0,1,0,0,0
+internal::core::MoveElementsOperation ,9,27,2,0,N,internal core move elements operation ,2,0,0,1,0,0
+internal::compiler::parser::RecoveredStatement ,23,29,0,0,N,internal compiler parser recovered statement ,0,1,0,0,0,0
+internal::codeassist::complete::CompletionOnMethodName ,31,14,0,0,N,internal codeassist complete completion on method name ,4,0,0,0,0,1
+core::dom::ClassInstanceCreation ,208,65,14,0,N,core dom class instance creation ,2,0,0,1,0,0
+internal::core::builder::MissingSourceFileException ,3,10,0,0,N,internal core builder missing source file exception ,0,1,0,0,0,0
+internal::compiler::env::EnumConstantSignature ,17,1,0,0,N,internal compiler env enum constant signature ,0,1,0,0,0,0
+internal::compiler::ast::TypeReference ,144,69,16,0,N,internal compiler ast type reference ,3,0,0,0,1,0
+internal::compiler::impl::CompilerStats ,9,1,0,0,N,internal compiler impl compiler stats ,0,1,0,0,0,0
+internal::codeassist::select::SelectionScanner ,31,33,1,0,N,internal codeassist select selection scanner ,1,0,1,0,0,0
+core::dom::PackageDeclaration ,130,47,11,0,N,core dom package declaration ,2,0,0,1,0,0
+internal::compiler::ast::CaseStatement ,96,41,15,0,N,internal compiler ast case statement ,3,0,0,0,1,0
+internal::compiler::ASTVisitor ,9,23,3,0,N,internal compiler visitor ,0,1,0,0,0,0
+internal::compiler::ast::Literal ,25,20,0,0,N,internal compiler ast literal ,0,1,0,0,0,0
+internal::compiler::lookup::ProblemFieldBinding ,9,22,3,0,N,internal compiler lookup problem field binding ,0,1,0,0,0,0
+internal::core::search::matching::PatternLocator ,580,91,44,1,Y,internal core search matching pattern locator ,3,0,0,0,1,0
+internal::codeassist::impl::Engine ,230,74,20,1,Y,internal codeassist impl engine ,1,0,1,0,0,0
+internal::core::SingleTypeRequestor ,27,14,0,0,N,internal core single type requestor ,3,0,0,0,1,0
+core::dom::ASTConverter ,1947,317,196,1,Y,core dom converter ,2,0,0,1,0,0
+internal::compiler::ast::QualifiedAllocationExpression ,414,114,25,1,Y,internal compiler ast qualified allocation expression ,3,0,0,0,1,0
+internal::core::search::matching::VariablePattern ,34,19,4,0,N,internal core search matching variable pattern ,3,0,0,0,1,0
+internal::core::search::JavaSearchScope ,289,89,34,1,Y,internal core search java search scope ,3,0,0,0,1,0
+internal::compiler::util::SimpleSet ,103,2,0,0,N,internal compiler util simple set ,0,1,0,0,0,0
+internal::core::jdom::DOMMember ,146,36,2,0,N,internal core jdom member ,2,0,0,1,0,0
+internal::core::jdom::DOMMethod ,404,42,6,0,N,internal core jdom method ,3,0,0,0,1,0
+internal::codeassist::select::SelectionOnLocalName ,24,15,2,0,N,internal codeassist select selection on local name ,1,0,1,0,0,0
+internal::compiler::ast::Javadoc ,708,79,48,3,Y,internal compiler ast javadoc ,3,0,0,0,1,0
+core::dom::TypeBinding ,952,165,89,1,Y,core dom type binding ,2,0,0,1,0,0
+core::search::SearchRequestor ,12,15,1,0,N,core search search requestor ,3,0,0,0,1,0
+core::dom::ContinueStatement ,59,33,6,0,N,core dom continue statement ,2,0,0,1,0,0
+internal::core::builder::AdditionalTypeCollection ,4,8,0,1,Y,internal core builder additional type collection ,3,0,0,0,1,0
+core::JavaModelException ,52,37,3,0,N,core java model exception ,3,0,0,0,1,0
+internal::core::builder::StringSet ,56,11,2,0,N,internal core builder string set ,0,1,0,0,0,0
+core::search::PackageDeclarationMatch ,3,16,0,0,N,core search package declaration match ,3,0,0,0,1,0
+internal::core::CreatePackageFragmentOperation ,83,50,9,0,N,internal core create package fragment operation ,2,0,0,1,0,0
+internal::core::util::ClassFileReader ,285,34,5,0,N,internal core util class file reader ,0,1,0,0,0,0
+internal::compiler::ast::ArrayReference ,158,65,10,0,N,internal compiler ast array reference ,3,0,0,0,1,0
+internal::formatter::comment::HTMLEntity2JavaReader ,44,5,4,0,N,internal formatter comment entity java reader ,1,0,1,0,0,0
+internal::core::BinaryMethod ,529,120,31,1,Y,internal core binary method ,3,0,0,0,1,0
+internal::core::search::matching::ImportMatchLocatorParser ,28,5,2,0,N,internal core search matching import match locator parser ,3,0,0,0,1,0
+core::dom::MethodRef ,109,23,3,0,N,core dom method ref ,2,0,0,1,0,0
+internal::core::util::ReferenceInfoAdapter ,18,19,1,0,N,internal core util reference info adapter ,3,0,0,0,1,0
+internal::core::RenameResourceElementsOperation ,28,30,2,0,N,internal core rename resource elements operation ,2,0,0,1,0,0
+core::dom::ASTMatcher ,52,65,11,0,N,core dom matcher ,2,0,0,1,0,0
+core::WorkingCopyOwner ,17,32,3,0,N,core working copy owner ,2,0,0,1,0,0
+core::compiler::ReconcileContext ,44,12,4,0,N,core compiler reconcile context ,0,1,0,0,0,0
+core::ClasspathContainerInitializer ,69,42,4,0,N,core classpath container initializer ,3,0,0,0,1,0
+internal::core::Annotation ,56,0,1,1,Y,internal core annotation ,0,1,0,0,0,0
+internal::core::jdom::AbstractDOMBuilder ,82,27,2,0,N,internal core jdom abstract builder ,3,0,0,0,1,0
+internal::eval::Evaluator ,104,48,9,0,N,internal eval evaluator ,4,0,0,0,0,1
+internal::formatter::comment::JavaDocRegion ,231,13,6,0,N,internal formatter comment java doc region ,1,0,1,0,0,0
+core::dom::VariableBinding ,232,70,32,0,N,core dom variable binding ,2,0,0,1,0,0
+internal::compiler::problem::DefaultProblem ,164,63,11,0,N,internal compiler problem default problem ,0,1,0,0,0,0
+core::util::ClassFormatException ,3,25,0,0,N,core util class format exception ,0,1,0,0,0,0
+internal::core::builder::IncrementalImageBuilder ,706,123,39,1,Y,internal core builder incremental image builder ,0,1,0,0,0,0
+internal::codeassist::select::SelectionOnNameOfMemberValuePair ,17,3,0,0,N,internal codeassist select selection on name of member value pair ,1,0,1,0,0,0
+internal::core::SourceRefElement ,171,63,15,0,N,internal core source ref element ,0,1,0,0,0,0
+internal::codeassist::select::SelectionOnQualifiedSuperReference ,16,27,1,0,N,internal codeassist select selection on qualified super reference ,1,0,1,0,0,0
+internal::core::NonJavaResource ,77,0,1,0,N,internal core non java resource ,3,0,0,0,1,0
+internal::core::hierarchy::HierarchyBinaryType ,154,48,6,0,N,internal core hierarchy hierarchy binary type ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionOnFieldName ,20,19,2,0,N,internal codeassist complete completion on field name ,4,0,0,0,0,1
+internal::compiler::impl::FloatConstant ,36,36,1,0,N,internal compiler impl float constant ,0,1,0,0,0,0
+internal::compiler::codegen::FloatCache ,88,29,1,0,N,internal compiler codegen float cache ,0,1,0,0,0,0
+internal::compiler::parser::SourceTypeConverter ,209,81,28,0,N,internal compiler parser source type converter ,0,1,0,0,0,0
+internal::core::search::matching::ClassFileMatchLocator ,462,55,15,1,Y,internal core search matching class file match locator ,3,0,0,0,1,0
+internal::core::VerboseElementCache ,27,1,0,0,N,internal core verbose element cache ,0,1,0,0,0,0
+internal::core::BinaryTypeConverter ,216,19,8,0,N,internal core binary type converter ,3,0,0,0,1,0
+internal::compiler::util::CompoundNameVector ,50,12,1,0,N,internal compiler util compound name vector ,3,0,0,0,1,0
+core::dom::PackageBinding ,155,45,18,0,N,core dom package binding ,2,0,0,1,0,0
+internal::formatter::comment::MultiCommentLine ,276,4,2,0,N,internal formatter comment multi comment line ,1,0,1,0,0,0
+internal::core::JavaCorePreferenceInitializer ,73,45,22,0,N,internal core java core preference initializer ,3,0,0,0,1,0
+internal::compiler::codegen::VerificationTypeInfo ,156,7,4,0,N,internal compiler codegen verification type info ,0,1,0,0,0,0
+internal::compiler::ast::QualifiedThisReference ,76,51,4,0,N,internal compiler ast qualified this reference ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionOnJavadocParamNameReference ,17,5,7,0,N,internal codeassist complete completion on javadoc param name reference ,4,0,0,0,0,1
+core::dom::MethodBinding ,290,107,59,0,N,core dom method binding ,2,0,0,1,0,0
+internal::compiler::ast::ConstructorDeclaration ,437,122,40,3,Y,internal compiler ast constructor declaration ,3,0,0,0,1,0
+internal::core::CreateCompilationUnitOperation ,87,50,10,0,N,internal core create compilation unit operation ,2,0,0,1,0,0
+core::CorrectionEngine ,128,59,6,1,Y,core correction engine ,2,0,0,1,0,0
+internal::core::search::matching::VariableLocator ,36,11,2,1,Y,internal core search matching variable locator ,3,0,0,0,1,0
+internal::compiler::batch::ClasspathDirectory ,136,60,9,0,N,internal compiler batch classpath directory ,0,1,0,0,0,0
+internal::core::index::MemoryIndex ,99,20,2,0,N,internal core index memory index ,4,0,0,0,0,1
+internal::compiler::ast::SwitchStatement ,334,94,19,1,Y,internal compiler ast switch statement ,0,1,0,0,0,0
+internal::core::search::indexing::InternalSearchDocument ,16,13,4,1,Y,internal core search indexing internal search document ,3,0,0,0,1,0
+core::dom::BindingResolver ,105,62,23,0,N,core dom binding resolver ,2,0,0,1,0,0
+internal::compiler::codegen::StackMapFrame ,325,11,8,0,N,internal compiler codegen stack map frame ,2,0,0,1,0,0
+internal::core::AnnotationInfo ,0,1,1,0,N,internal core annotation info ,0,1,0,0,0,0
+internal::compiler::classfmt::ClassFormatException ,29,24,2,0,N,internal compiler classfmt class format exception ,0,1,0,0,0,0
+internal::core::builder::ClasspathDirectory ,101,39,6,0,N,internal core builder classpath directory ,0,1,0,0,0,0
+internal::compiler::classfmt::MethodInfoWithParameterAnnotations ,35,1,0,0,N,internal compiler classfmt method info with parameter annotations ,0,1,0,0,0,0
+internal::core::builder::ClasspathMultiDirectory ,33,27,3,0,N,internal core builder classpath multi directory ,0,1,0,0,0,0
+internal::compiler::lookup::TypeBinding ,773,143,56,3,Y,internal compiler lookup type binding ,0,1,0,0,0,0
+internal::compiler::flow::LabelFlowContext ,23,33,3,0,N,internal compiler flow label flow context ,0,1,0,0,0,0
+internal::compiler::ast::AssertStatement ,163,68,9,2,Y,internal compiler ast assert statement ,0,1,0,0,0,0
+internal::core::search::matching::TypeReferencePattern ,54,99,21,1,Y,internal core search matching type reference pattern ,3,0,0,0,1,0
+core::search::TypeNameMatchRequestor ,0,2,3,0,N,core search type name match requestor ,3,0,0,0,1,0
+internal::codeassist::select::SelectionOnPackageReference ,11,27,0,0,N,internal codeassist select selection on package reference ,1,0,1,0,0,0
+core::BindingKey ,82,25,7,0,N,core binding key ,2,0,0,1,0,0
+internal::compiler::ast::JavadocReturnStatement ,29,24,13,0,N,internal compiler ast javadoc return statement ,3,0,0,0,1,0
+internal::eval::CodeSnippetAllocationExpression ,184,55,13,1,Y,internal eval code snippet allocation expression ,4,0,0,0,0,1
+internal::compiler::env::AccessRule ,39,5,2,0,N,internal compiler env access rule ,1,0,1,0,0,0
+internal::core::jdom::DOMBuilder ,368,45,10,0,N,internal core jdom builder ,3,0,0,0,1,0
+internal::core::search::matching::TypeParameterPattern ,61,10,6,0,N,internal core search matching type parameter pattern ,3,0,0,0,1,0
+internal::core::util::InnerClassesAttributeEntry ,49,10,0,0,N,internal core util inner classes attribute entry ,0,1,0,0,0,0
+core::dom::ASTSyntaxErrorPropagator ,62,22,6,0,N,core dom syntax error propagator ,2,0,0,1,0,0
+internal::codeassist::complete::CompletionOnFieldType ,14,20,1,0,N,internal codeassist complete completion on field type ,4,0,0,0,0,1
+internal::codeassist::select::SelectionOnExplicitConstructorCall ,34,29,1,0,N,internal codeassist select selection on explicit constructor call ,1,0,1,0,0,0
+internal::core::util::HandleFactory ,200,59,20,0,N,internal core util handle factory ,3,0,0,0,1,0
+internal::core::dom::rewrite::TrackedNodePosition ,24,8,2,0,N,internal core dom rewrite tracked node position ,1,0,1,0,0,0
+internal::compiler::util::SimpleSetOfCharArray ,103,5,6,0,N,internal compiler util simple set of char array ,0,1,0,0,0,0
+internal::core::dom::rewrite::ASTRewriteAnalyzer ,907,67,28,2,Y,internal core dom rewrite rewrite analyzer ,1,0,1,0,0,0
+internal::compiler::ast::ReturnStatement ,217,83,26,1,Y,internal compiler ast return statement ,3,0,0,0,1,0
+core::search::MethodDeclarationMatch ,3,16,0,0,N,core search method declaration match ,3,0,0,0,1,0
+internal::core::util::LocalVariableAttribute ,21,14,0,0,N,internal core util local variable attribute ,3,0,0,0,1,0
+internal::core::builder::NameEnvironment ,271,68,14,0,N,internal core builder name environment ,3,0,0,0,1,0
+core::dom::ParameterizedType ,88,38,6,0,N,core dom parameterized type ,3,0,0,0,1,0
+internal::formatter::comment::Java2HTMLEntityReader ,50,8,4,0,N,internal formatter comment java entity reader ,1,0,1,0,0,0
+internal::core::BufferFactoryWrapper ,23,15,0,0,N,internal core buffer factory wrapper ,4,0,0,0,0,1
+internal::core::NameLookup ,691,143,35,0,N,internal core name lookup ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionOnJavadocTag ,115,5,3,1,Y,internal codeassist complete completion on javadoc tag ,4,0,0,0,0,1
+internal::compiler::util::HashtableOfObject ,122,38,1,0,N,internal compiler util hashtable of object ,0,1,0,0,0,0
+internal::compiler::ast::ParameterizedQualifiedTypeReference ,296,84,32,1,Y,internal compiler ast parameterized qualified type reference ,3,0,0,0,1,0
+internal::eval::EvaluationContext ,332,74,16,0,N,internal eval evaluation context ,0,1,0,0,0,0
+internal::compiler::ast::ContinueStatement ,75,13,6,0,N,internal compiler ast continue statement ,3,0,0,0,1,0
+internal::compiler::ast::ThrowStatement ,44,48,3,0,N,internal compiler ast throw statement ,3,0,0,0,1,0
+internal::core::SourceType ,480,172,36,0,N,internal core source type ,3,0,0,0,1,0
+internal::core::util::StackMapFrame ,127,7,1,0,N,internal core util stack map frame ,2,0,0,1,0,0
+core::CheckDebugAttributes ,50,15,3,0,N,core check debug attributes ,2,0,0,1,0,0
+internal::core::ClasspathEntry ,1340,127,36,4,Y,internal core classpath entry ,3,0,0,0,1,0
+internal::core::jdom::DOMPackage ,50,33,3,0,N,internal core jdom package ,2,0,0,1,0,0
+internal::core::search::matching::PackageReferencePattern ,40,82,11,1,Y,internal core search matching package reference pattern ,3,0,0,0,1,0
+internal::core::JavaProjectElementInfo ,251,68,25,1,Y,internal core java project element info ,3,0,0,0,1,0
+internal::core::SourceAnnotationMethodInfo ,3,7,3,0,N,internal core source annotation method info ,0,1,0,0,0,0
+internal::compiler::ast::ExtendedStringLiteral ,29,32,3,0,N,internal compiler ast extended string literal ,0,1,0,0,0,0
+internal::core::builder::WorkQueue ,28,14,0,0,N,internal core builder work queue ,0,1,0,0,0,0
+internal::core::SourceConstructorInfo ,13,3,0,0,N,internal core source constructor info ,0,1,0,0,0,0
+internal::compiler::ast::ArrayQualifiedTypeReference ,62,48,4,0,N,internal compiler ast array qualified type reference ,3,0,0,0,1,0
+internal::compiler::DocumentElementParser ,1200,73,9,0,N,internal compiler document element parser ,0,1,0,0,0,0
+internal::core::builder::ImageBuilderInternalException ,15,14,1,0,N,internal core builder image builder internal exception ,0,1,0,0,0,0
+internal::codeassist::complete::CompletionOnJavadocSingleTypeReference ,55,3,3,0,N,internal codeassist complete completion on javadoc single type reference ,4,0,0,0,0,1
+internal::compiler::ast::OperatorExpression ,1520,47,4,0,N,internal compiler ast operator expression ,0,1,0,0,0,0
+internal::core::search::TypeNameRequestorWrapper ,6,8,5,0,N,internal core search type name requestor wrapper ,3,0,0,0,1,0
+internal::codeassist::impl::AssistAnnotation ,7,0,1,0,N,internal codeassist impl assist annotation ,1,0,1,0,0,0
+core::dom::ArrayCreation ,110,44,9,0,N,core dom array creation ,2,0,0,1,0,0
+internal::core::CompilationUnitStructureRequestor ,525,93,22,1,Y,internal core compilation unit structure requestor ,2,0,0,1,0,0
+internal::compiler::ast::JavadocSingleTypeReference ,66,39,26,0,N,internal compiler ast javadoc single type reference ,3,0,0,0,1,0
+internal::core::builder::BatchImageBuilder ,269,93,28,1,Y,internal core builder batch image builder ,0,1,0,0,0,0
+internal::compiler::parser::AbstractCommentParser ,1399,104,81,7,Y,internal compiler parser abstract comment parser ,0,1,0,0,0,0
+internal::core::ResolvedBinaryField ,23,5,1,0,N,internal core resolved binary field ,3,0,0,0,1,0
+internal::core::index::Index ,134,45,18,1,Y,internal core index index ,4,0,0,0,0,1
+internal::core::ExternalFoldersManager ,192,7,4,3,Y,internal core external folders manager ,4,0,0,0,0,1
+core::dom::BooleanLiteral ,52,27,5,0,N,core dom boolean literal ,0,1,0,0,0,0
+internal::core::util::Disassembler ,629,131,33,1,Y,internal core util disassembler ,2,0,0,1,0,0
+internal::core::util::DOMFinder ,28,5,3,0,N,internal core util finder ,0,1,0,0,0,0
+internal::compiler::lookup::VariableBinding ,35,40,3,0,N,internal compiler lookup variable binding ,0,1,0,0,0,0
+internal::core::util::CodeSnippetParsingUtil ,152,23,13,0,N,internal core util code snippet parsing util ,4,0,0,0,0,1
+internal::core::search::indexing::ReadWriteMonitor ,52,26,0,0,N,internal core search indexing read write monitor ,4,0,0,0,0,1
+internal::core::JavaProject ,1607,468,128,4,Y,internal core java project ,3,0,0,0,1,0
+internal::compiler::flow::ExceptionHandlingFlowContext ,139,55,11,2,Y,internal compiler flow exception handling flow context ,0,1,0,0,0,0
+internal::core::search::matching::TypeReferenceLocator ,343,83,40,2,Y,internal core search matching type reference locator ,3,0,0,0,1,0
+internal::core::JavaModelStatus ,286,54,15,0,N,internal core java model status ,3,0,0,0,1,0
+core::dom::CatchClause ,107,38,8,0,N,core dom catch clause ,2,0,0,1,0,0
+internal::compiler::ast::JavadocArraySingleTypeReference ,14,15,6,0,N,internal compiler ast javadoc array single type reference ,3,0,0,0,1,0
+internal::core::CreateMethodOperation ,64,39,9,0,N,internal core create method operation ,2,0,0,1,0,0
+internal::core::Buffer ,275,72,14,0,N,internal core buffer ,4,0,0,0,0,1
+internal::core::search::matching::TypeParameterLocator ,57,1,1,1,Y,internal core search matching type parameter locator ,3,0,0,0,1,0
+internal::compiler::batch::ClasspathLocation ,15,13,7,0,N,internal compiler batch classpath location ,0,1,0,0,0,0
+internal::core::MemberValuePair ,26,0,1,0,N,internal core member value pair ,2,0,0,1,0,0
+core::dom::ConstructorInvocation ,76,34,7,0,N,core dom constructor invocation ,2,0,0,1,0,0
+internal::formatter::comment::CommentRegion ,269,6,4,0,N,internal formatter comment comment region ,1,0,1,0,0,0
+internal::compiler::util::HashtableOfObjectToIntArray ,117,2,1,0,N,internal compiler util hashtable of object to int array ,0,1,0,0,0,0
+internal::core::search::indexing::RemoveFolderFromIndex ,49,40,6,0,N,internal core search indexing remove folder from index ,4,0,0,0,0,1
+internal::codeassist::SelectionEngine ,1189,175,56,1,Y,internal codeassist selection engine ,1,0,1,0,0,0
+internal::compiler::lookup::ImportBinding ,21,31,1,0,N,internal compiler lookup import binding ,0,1,0,0,0,0
+core::compiler::BuildContext ,56,5,3,0,N,core compiler build context ,0,1,0,0,0,0
+internal::core::search::matching::PackageDeclarationLocator ,11,6,0,0,N,internal core search matching package declaration locator ,3,0,0,0,1,0
+internal::compiler::codegen::ExceptionLabel ,58,24,6,1,Y,internal compiler codegen exception label ,0,1,0,0,0,0
+internal::eval::CodeSnippetFieldReference ,336,55,6,0,N,internal eval code snippet field reference ,4,0,0,0,0,1
+internal::compiler::lookup::ElementValuePair ,28,8,5,0,N,internal compiler lookup element value pair ,0,1,0,0,0,0
+internal::core::JarPackageFragmentInfo ,3,19,1,0,N,internal core jar package fragment info ,2,0,0,1,0,0
+internal::core::CancelableNameEnvironment ,23,9,6,1,Y,internal core cancelable name environment ,3,0,0,0,1,0
+internal::compiler::parser::RecoveredElement ,172,42,3,0,N,internal compiler parser recovered element ,0,1,0,0,0,0
+internal::core::UserLibraryClasspathContainer ,35,11,3,0,N,internal core user library classpath container ,3,0,0,0,1,0
+internal::compiler::problem::DefaultProblemFactory ,126,61,19,0,N,internal compiler problem default problem factory ,0,1,0,0,0,0
+core::search::TypeReferenceMatch ,16,30,6,2,Y,core search type reference match ,3,0,0,0,1,0
+internal::compiler::ast::JavadocMessageSend ,174,48,28,0,N,internal compiler ast javadoc message send ,4,0,0,0,0,1
+internal::compiler::lookup::BaseTypeBinding ,163,34,2,0,N,internal compiler lookup base type binding ,0,1,0,0,0,0
+core::dom::WildcardType ,80,28,4,0,N,core dom wildcard type ,3,0,0,0,1,0
+internal::core::util::RuntimeInvisibleParameterAnnotationsAttribute ,22,5,0,0,N,internal core util runtime invisible parameter annotations attribute ,0,1,0,0,0,0
+internal::core::UserLibraryClasspathContainerInitializer ,52,14,3,0,N,internal core user library classpath container initializer ,3,0,0,0,1,0
+core::dom::AST ,804,209,66,0,N,core dom ,2,0,0,1,0,0
+internal::codeassist::UnresolvedReferenceNameFinder ,321,10,7,0,N,internal codeassist unresolved reference name finder ,4,0,0,0,0,1
+internal::codeassist::complete::CompletionOnAnnotationOfType ,10,4,3,0,N,internal codeassist complete completion on annotation of type ,4,0,0,0,0,1
+internal::core::util::HashSetOfCharArrayArray ,118,0,1,0,N,internal core util hash set of char array array ,3,0,0,0,1,0
+internal::compiler::ast::LongLiteral ,128,33,5,0,N,internal compiler ast long literal ,0,1,0,0,0,0
+internal::compiler::util::HashtableOfType ,79,30,1,0,N,internal compiler util hashtable of type ,0,1,0,0,0,0
+internal::compiler::ast::ClassLiteralAccess ,72,72,9,0,N,internal compiler ast class literal access ,0,1,0,0,0,0
+core::dom::NumberLiteral ,97,44,7,0,N,core dom number literal ,0,1,0,0,0,0
+internal::core::util::CharArrayBuffer ,35,21,1,0,N,internal core util char array buffer ,3,0,0,0,1,0
+internal::formatter::OptimizedReplaceEdit ,8,5,1,0,N,internal formatter optimized replace edit ,0,1,0,0,0,0
+internal::core::JavaCorePreferenceModifyListener ,29,1,1,0,N,internal core java core preference modify listener ,3,0,0,0,1,0
+internal::core::search::matching::FieldPattern ,63,40,11,1,Y,internal core search matching field pattern ,3,0,0,0,1,0
+internal::core::builder::NameSet ,41,9,1,0,N,internal core builder name set ,3,0,0,0,1,0
+internal::core::ExternalJavaProject ,29,5,4,0,N,internal core external java project ,3,0,0,0,1,0
+core::search::SearchEngine ,54,182,41,0,N,core search search engine ,3,0,0,0,1,0
+internal::compiler::ConfigurableOption ,117,40,4,0,N,internal compiler configurable option ,0,1,0,0,0,0
+internal::compiler::lookup::SyntheticFieldBinding ,5,16,1,0,N,internal compiler lookup synthetic field binding ,0,1,0,0,0,0
+internal::compiler::impl::BooleanConstant ,19,40,5,0,N,internal compiler impl boolean constant ,0,1,0,0,0,0
+internal::core::util::HashtableOfArrayToObject ,144,5,1,0,N,internal core util hashtable of array to object ,3,0,0,0,1,0
+internal::core::InitializerElementInfo ,0,15,0,0,N,internal core initializer element info ,0,1,0,0,0,0
+core::dom::CastExpression ,106,35,8,0,N,core dom cast expression ,2,0,0,1,0,0
+internal::core::ModelUpdater ,157,23,7,0,N,internal core model updater ,3,0,0,0,1,0
+internal::core::util::ConstantPoolEntry ,169,9,1,0,N,internal core util constant pool entry ,0,1,0,0,0,0
+core::dom::AnnotationBinding ,190,9,11,2,Y,core dom annotation binding ,2,0,0,1,0,0
+internal::core::ResolvedBinaryMethod ,23,5,1,0,N,internal core resolved binary method ,3,0,0,0,1,0
+internal::core::search::matching::PossibleMatchSet ,37,10,1,0,N,internal core search matching possible match set ,3,0,0,0,1,0
+internal::codeassist::impl::AssistSourceType ,59,2,3,0,N,internal codeassist impl assist source type ,1,0,1,0,0,0
+internal::compiler::ast::JavadocArrayQualifiedTypeReference ,13,15,6,0,N,internal compiler ast javadoc array qualified type reference ,3,0,0,0,1,0
+internal::compiler::ast::TypeParameter ,60,18,5,0,N,internal compiler ast type parameter ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionOnMarkerAnnotationName ,15,5,1,0,N,internal codeassist complete completion on marker annotation name ,4,0,0,0,0,1
+internal::compiler::parser::RecoveredImport ,26,28,0,0,N,internal compiler parser recovered import ,0,1,0,0,0,0
+internal::core::builder::BuildNotifier ,189,36,8,0,N,internal core builder build notifier ,0,1,0,0,0,0
+internal::formatter::comment::CommentFormatterUtil ,55,3,2,0,N,internal formatter comment comment formatter util ,1,0,1,0,0,0
+internal::compiler::flow::NullInfoRegistry ,312,5,4,0,N,internal compiler flow null info registry ,0,1,0,0,0,0
+internal::compiler::ast::Reference ,42,36,3,1,Y,internal compiler ast reference ,3,0,0,0,1,0
+internal::core::CreateTypeMemberOperation ,126,49,8,1,Y,internal core create type member operation ,2,0,0,1,0,0
+internal::core::util::RuntimeVisibleAnnotationsAttribute ,22,6,0,0,N,internal core util runtime visible annotations attribute ,0,1,0,0,0,0
+internal::core::util::WeakHashSet ,143,6,1,0,N,internal core util weak hash set ,3,0,0,0,1,0
+core::JavaConventions ,219,140,24,1,Y,core java conventions ,2,0,0,1,0,0
+internal::compiler::impl::StringConstant ,27,29,0,0,N,internal compiler impl string constant ,0,1,0,0,0,0
+internal::compiler::lookup::Binding ,18,41,7,0,N,internal compiler lookup binding ,0,1,0,0,0,0
+core::dom::DoStatement ,106,41,10,0,N,core dom do statement ,2,0,0,1,0,0
+internal::compiler::util::GenericXMLWriter ,99,4,3,0,N,internal compiler util generic writer ,0,1,0,0,0,0
+internal::core::Region ,89,31,2,0,N,internal core region ,1,0,1,0,0,0
+internal::codeassist::impl::AssistCompilationUnit ,21,0,1,0,N,internal codeassist impl assist compilation unit ,1,0,1,0,0,0
+internal::core::BatchOperation ,28,13,1,0,N,internal core batch operation ,2,0,0,1,0,0
+internal::core::JarPackageFragmentRoot ,185,85,19,0,N,internal core jar package fragment root ,2,0,0,1,0,0
+internal::codeassist::CompletionEngine ,7341,412,205,7,Y,internal codeassist completion engine ,4,0,0,0,0,1
+internal::compiler::ast::TryStatement ,784,138,31,3,Y,internal compiler ast try statement ,3,0,0,0,1,0
+internal::compiler::lookup::ParameterizedGenericMethodBinding ,412,89,44,0,N,internal compiler lookup parameterized generic method binding ,0,1,0,0,0,0
+core::dom::Javadoc ,108,50,8,0,N,core dom javadoc ,2,0,0,1,0,0
+internal::core::ElementCache ,36,21,4,0,N,internal core element cache ,0,1,0,0,0,0
+internal::compiler::lookup::ReferenceBinding ,840,180,50,1,Y,internal compiler lookup reference binding ,0,1,0,0,0,0
+core::dom::InfixExpression ,158,41,11,0,N,core dom infix expression ,2,0,0,1,0,0
+internal::codeassist::complete::CompletionOnJavadocAllocationExpression ,56,5,4,0,N,internal codeassist complete completion on javadoc allocation expression ,4,0,0,0,0,1
+internal::compiler::util::HashtableOfInt ,71,27,0,0,N,internal compiler util hashtable of int ,0,1,0,0,0,0
+internal::compiler::env::ClassSignature ,12,1,0,0,N,internal compiler env class signature ,0,1,0,0,0,0
+internal::formatter::CodeFormatterVisitor ,1248,251,132,2,Y,internal formatter code formatter visitor ,4,0,0,0,0,1
+internal::core::util::ParameterAnnotation ,25,8,1,0,N,internal core util parameter annotation ,0,1,0,0,0,0
+internal::compiler::ast::LabeledStatement ,92,57,8,0,N,internal compiler ast labeled statement ,3,0,0,0,1,0
+core::dom::NormalAnnotation ,67,22,4,0,N,core dom normal annotation ,2,0,0,1,0,0
+core::dom::BlockComment ,31,20,3,0,N,core dom block comment ,2,0,0,1,0,0
+internal::core::util::SimpleWordSet ,43,8,1,0,N,internal core util simple word set ,4,0,0,0,0,1
+internal::compiler::ast::AnnotationMethodDeclaration ,128,20,2,0,N,internal compiler ast annotation method declaration ,0,1,0,0,0,0
+core::search::ReferenceMatch ,10,0,1,1,Y,core search reference match ,3,0,0,0,1,0
+internal::codeassist::impl::AssistSourceField ,41,1,2,0,N,internal codeassist impl assist source field ,1,0,1,0,0,0
+core::dom::DefaultASTVisitor ,15,8,7,0,N,core dom default visitor ,2,0,0,1,0,0
+internal::core::JavaElementDeltaBuilder ,354,47,8,0,N,internal core java element delta builder ,0,1,0,0,0,0
+internal::core::ClassFileWorkingCopy ,68,64,7,0,N,internal core class file working copy ,2,0,0,1,0,0
+internal::compiler::ast::AllocationExpression ,337,95,20,1,Y,internal compiler ast allocation expression ,0,1,0,0,0,0
+internal::compiler::SourceElementNotifier ,299,1,2,0,N,internal compiler source element notifier ,0,1,0,0,0,0
+core::dom::ASTVisitor ,15,34,5,0,N,core dom visitor ,2,0,0,1,0,0
+internal::core::util::BindingKeyParser ,423,39,24,0,N,internal core util binding key parser ,0,1,0,0,0,0
+core::dom::Modifier ,96,35,6,0,N,core dom modifier ,2,0,0,1,0,0
+internal::core::dom::rewrite::RewriteEvent ,0,6,0,0,N,internal core dom rewrite rewrite event ,1,0,1,0,0,0
+internal::core::util::MethodInfo ,123,23,3,0,N,internal core util method info ,0,1,0,0,0,0
+internal::core::builder::AbstractImageBuilder ,639,149,41,2,Y,internal core builder abstract image builder ,0,1,0,0,0,0
+internal::compiler::ast::NullLiteral ,32,26,7,0,N,internal compiler ast null literal ,0,1,0,0,0,0
+internal::compiler::flow::InsideSubRoutineFlowContext ,27,26,6,0,N,internal compiler flow inside sub routine flow context ,0,1,0,0,0,0
+internal::compiler::util::ObjectVector ,78,34,3,0,N,internal compiler util object vector ,3,0,0,0,1,0
+core::dom::AnonymousClassDeclaration ,53,26,7,0,N,core dom anonymous class declaration ,2,0,0,1,0,0
+internal::compiler::ast::QualifiedTypeReference ,105,69,16,0,N,internal compiler ast qualified type reference ,3,0,0,0,1,0
+internal::compiler::ast::OR_OR_Expression ,226,49,12,0,N,internal compiler ast expression ,0,1,0,0,0,0
+internal::core::util::SourceFileAttribute ,15,12,0,0,N,internal core util source file attribute ,0,1,0,0,0,0
+core::dom::Expression ,15,13,2,0,N,core dom expression ,2,0,0,1,0,0
+internal::compiler::util::Messages ,80,17,7,0,N,internal compiler util messages ,0,1,0,0,0,0
+internal::core::CopyElementsOperation ,124,56,8,0,N,internal core copy elements operation ,2,0,0,1,0,0
+internal::compiler::ast::SynchronizedStatement ,158,65,17,0,N,internal compiler ast synchronized statement ,3,0,0,0,1,0
+internal::core::RenameElementsOperation ,28,30,3,0,N,internal core rename elements operation ,2,0,0,1,0,0
+internal::core::jdom::DOMImport ,62,38,4,0,N,internal core jdom import ,3,0,0,0,1,0
+internal::compiler::ast::SingleTypeReference ,63,45,4,0,N,internal compiler ast single type reference ,3,0,0,0,1,0
+internal::codeassist::InternalCompletionProposal ,127,11,5,1,Y,internal codeassist internal completion proposal ,4,0,0,0,0,1
+internal::compiler::ast::UnaryExpression ,253,62,10,0,N,internal compiler ast unary expression ,3,0,0,0,1,0
+core::dom::ASTRecoveryPropagator ,261,8,7,0,N,core dom recovery propagator ,2,0,0,1,0,0
+core::Flags ,95,47,2,0,N,core flags ,2,0,0,1,0,0
+internal::core::CreatePackageDeclarationOperation ,57,39,8,0,N,internal core create package declaration operation ,2,0,0,1,0,0
+internal::compiler::problem::AbortMethod ,3,17,3,0,N,internal compiler problem abort method ,0,1,0,0,0,0
+internal::core::JavaElementDelta ,485,68,14,0,N,internal core java element delta ,0,1,0,0,0,0
+core::dom::WhileStatement ,106,39,9,0,N,core dom while statement ,2,0,0,1,0,0
+core::dom::InstanceofExpression ,106,34,8,0,N,core dom instanceof expression ,2,0,0,1,0,0
+internal::compiler::impl::CharConstant ,38,33,1,0,N,internal compiler impl char constant ,0,1,0,0,0,0
+internal::compiler::lookup::LocalTypeBinding ,186,61,11,0,N,internal compiler lookup local type binding ,0,1,0,0,0,0
+internal::compiler::impl::CompilerOptions ,974,232,76,1,Y,internal compiler impl compiler options ,0,1,0,0,0,0
+internal::core::eval::RequestorWrapper ,36,23,4,0,N,internal core eval requestor wrapper ,4,0,0,0,0,1
+internal::compiler::parser::ScannerHelper ,136,21,2,0,N,internal compiler parser scanner helper ,0,1,0,0,0,0
+internal::core::search::matching::MultiTypeDeclarationPattern ,146,14,10,1,Y,internal core search matching multi type declaration pattern ,3,0,0,0,1,0
+internal::core::SelectionRequestor ,781,89,26,0,N,internal core selection requestor ,3,0,0,0,1,0
+core::dom::FieldDeclaration ,136,58,13,0,N,core dom field declaration ,2,0,0,1,0,0
+internal::eval::GlobalVariable ,26,25,0,0,N,internal eval global variable ,0,1,0,0,0,0
+core::dom::MemberValuePairBinding ,152,5,6,0,N,core dom member value pair binding ,2,0,0,1,0,0
+internal::core::hierarchy::TypeHierarchy ,1119,121,27,1,Y,internal core hierarchy type hierarchy ,3,0,0,0,1,0
+internal::compiler::lookup::ParameterizedTypeBinding ,866,183,69,2,Y,internal compiler lookup parameterized type binding ,0,1,0,0,0,0
+internal::codeassist::select::SelectionOnArgumentName ,26,14,1,0,N,internal codeassist select selection on argument name ,1,0,1,0,0,0
+internal::eval::CodeSnippetTypeDeclaration ,56,22,3,0,N,internal eval code snippet type declaration ,4,0,0,0,0,1
+internal::eval::EvaluationResult ,99,28,2,0,N,internal eval evaluation result ,0,1,0,0,0,0
+internal::core::search::indexing::IndexingParser ,31,2,1,0,N,internal core search indexing indexing parser ,4,0,0,0,0,1
+core::JDTCompilerAdapter ,21,79,30,0,N,core compiler adapter ,3,0,0,0,1,0
+internal::codeassist::CompletionRequestorWrapper ,306,6,0,1,Y,internal codeassist completion requestor wrapper ,4,0,0,0,0,1
+internal::core::CreateElementInCUOperation ,142,51,9,0,N,internal core create element in operation ,2,0,0,1,0,0
+internal::core::dom::rewrite::ListRewriteEvent ,121,10,2,0,N,internal core dom rewrite list rewrite event ,1,0,1,0,0,0
+core::dom::Assignment ,132,38,9,0,N,core dom assignment ,2,0,0,1,0,0
+core::dom::NullLiteral ,31,29,5,0,N,core dom null literal ,0,1,0,0,0,0
+internal::core::JavaElement ,505,155,36,1,Y,internal core java element ,3,0,0,0,1,0
+internal::formatter::comment::CommentLine ,149,4,1,0,N,internal formatter comment comment line ,1,0,1,0,0,0
+internal::codeassist::complete::CompletionOnMessageSend ,41,36,2,0,N,internal codeassist complete completion on message send ,4,0,0,0,0,1
+core::dom::ArrayInitializer ,45,26,5,0,N,core dom array initializer ,3,0,0,0,1,0
+internal::codeassist::impl::AssistTypeParameter ,7,0,1,0,N,internal codeassist impl assist type parameter ,1,0,1,0,0,0
+internal::formatter::align::AlignmentException ,21,10,0,0,N,internal formatter align alignment exception ,0,1,0,0,0,0
+core::CompletionFlags ,6,0,1,0,N,core completion flags ,2,0,0,1,0,0
+core::compiler::CategorizedProblem ,6,22,4,0,N,core compiler categorized problem ,0,1,0,0,0,0
+internal::compiler::ast::AbstractMethodDeclaration ,314,125,35,0,N,internal compiler ast abstract method declaration ,3,0,0,0,1,0
+internal::core::util::Messages ,6,25,17,1,Y,internal core util messages ,4,0,0,0,0,1
+internal::core::CreateFieldOperation ,77,41,10,0,N,internal core create field operation ,2,0,0,1,0,0
+internal::codeassist::complete::CompletionOnJavadocQualifiedTypeReference ,56,3,3,0,N,internal codeassist complete completion on javadoc qualified type reference ,4,0,0,0,0,1
+internal::codeassist::complete::CompletionOnLocalName ,25,17,2,0,N,internal codeassist complete completion on local name ,4,0,0,0,0,1
+core::dom::rewrite::ImportRewrite ,356,15,7,0,N,core dom rewrite import rewrite ,1,0,1,0,0,0
+core::formatter::CodeFormatterApplication ,200,14,6,0,N,core formatter code formatter application ,4,0,0,0,0,1
+internal::core::BecomeWorkingCopyOperation ,38,23,6,0,N,internal core become working copy operation ,2,0,0,1,0,0
+internal::compiler::lookup::UnresolvedAnnotationBinding ,37,3,1,1,Y,internal compiler lookup unresolved annotation binding ,0,1,0,0,0,0
+core::compiler::batch::BatchCompiler ,6,2,1,0,N,core compiler batch batch compiler ,0,1,0,0,0,0
+internal::core::util::SimpleDocument ,145,9,0,0,N,internal core util simple document ,4,0,0,0,0,1
+internal::core::search::matching::ConstructorPattern ,154,54,15,1,Y,internal core search matching constructor pattern ,3,0,0,0,1,0
+core::dom::RecoveredTypeBinding ,402,11,10,0,N,core dom recovered type binding ,2,0,0,1,0,0
+internal::compiler::ast::CastExpression ,431,155,50,1,Y,internal compiler ast cast expression ,0,1,0,0,0,0
+internal::core::ClassFileInfo ,149,52,6,1,Y,internal core class file info ,0,1,0,0,0,0
+internal::core::DeltaProcessor ,2116,367,101,2,Y,internal core delta processor ,0,1,0,0,0,0
+core::dom::TypeDeclaration ,303,70,18,0,N,core dom type declaration ,2,0,0,1,0,0
+internal::compiler::codegen::ConstantPool ,329,79,16,1,Y,internal compiler codegen constant pool ,0,1,0,0,0,0
+core::dom::VariableDeclarationExpression ,156,55,11,0,N,core dom variable declaration expression ,2,0,0,1,0,0
+internal::compiler::classfmt::ElementValuePairInfo ,28,3,0,0,N,internal compiler classfmt element value pair info ,0,1,0,0,0,0
+internal::compiler::util::FloatUtil ,311,3,1,0,N,internal compiler util float util ,0,1,0,0,0,0
+internal::compiler::lookup::NestedTypeBinding ,115,26,5,1,Y,internal compiler lookup nested type binding ,0,1,0,0,0,0
+internal::core::ResolvedSourceField ,23,7,2,0,N,internal core resolved source field ,3,0,0,0,1,0
+internal::compiler::SourceElementRequestorAdapter ,66,28,15,0,N,internal compiler source element requestor adapter ,0,1,0,0,0,0
+internal::codeassist::InternalExtendedCompletionContext ,648,3,4,2,Y,internal codeassist internal extended completion context ,0,1,0,0,0,0
+internal::compiler::ast::AbstractVariableDeclaration ,57,41,1,0,N,internal compiler ast abstract variable declaration ,3,0,0,0,1,0
+core::dom::AnnotationTypeMemberDeclaration ,170,32,8,0,N,core dom annotation type member declaration ,2,0,0,1,0,0
+internal::compiler::parser::TypeConverter ,246,1,2,0,N,internal compiler parser type converter ,3,0,0,0,1,0
+internal::core::util::VerificationInfo ,37,3,0,0,N,internal core util verification info ,0,1,0,0,0,0
+internal::core::SimpleDelta ,44,5,2,0,N,internal core simple delta ,0,1,0,0,0,0
+internal::codeassist::impl::AssistSourceMethod ,44,1,2,0,N,internal codeassist impl assist source method ,1,0,1,0,0,0
+internal::compiler::classfmt::AnnotationMethodInfo ,95,6,0,0,N,internal compiler classfmt annotation method info ,0,1,0,0,0,0
+internal::core::search::matching::IntersectingPattern ,49,2,2,1,Y,internal core search matching intersecting pattern ,3,0,0,0,1,0
+internal::compiler::problem::AbortCompilationUnit ,4,18,4,0,N,internal compiler problem abort compilation unit ,0,1,0,0,0,0
+internal::codeassist::complete::CompletionOnArgumentName ,27,19,2,0,N,internal codeassist complete completion on argument name ,4,0,0,0,0,1
+core::NamingConventions ,142,38,9,2,Y,core naming conventions ,2,0,0,1,0,0
+internal::core::OverflowingLRUCache ,233,51,5,0,N,internal core overflowing cache ,4,0,0,0,0,1
+internal::core::SourceMethodElementInfo ,34,28,3,0,N,internal core source method element info ,0,1,0,0,0,0
+internal::core::util::FieldInfo ,92,18,1,0,N,internal core util field info ,0,1,0,0,0,0
+internal::formatter::FormatJavadoc ,27,1,3,0,N,internal formatter format javadoc ,1,0,1,0,0,0
+internal::compiler::codegen::IntegerCache ,94,31,1,0,N,internal compiler codegen integer cache ,0,1,0,0,0,0
+core::search::PackageReferenceMatch ,3,20,2,1,Y,core search package reference match ,3,0,0,0,1,0
+internal::compiler::parser::RecoveredMethod ,409,83,15,0,N,internal compiler parser recovered method ,0,1,0,0,0,0
+internal::core::search::matching::MethodPattern ,180,80,23,1,Y,internal core search matching method pattern ,3,0,0,0,1,0
+internal::core::eval::EvaluationContextWrapper ,195,76,2,0,N,internal core eval evaluation context wrapper ,0,1,0,0,0,0
+internal::compiler::flow::InitializationFlowContext ,54,23,0,2,Y,internal compiler flow initialization flow context ,0,1,0,0,0,0
+internal::compiler::ast::Assignment ,221,112,28,0,N,internal compiler ast assignment ,3,0,0,0,1,0
+internal::compiler::lookup::TypeVariableBinding ,333,113,45,1,Y,internal compiler lookup type variable binding ,0,1,0,0,0,0
+internal::core::util::RecordedParsingInformation ,12,8,5,0,N,internal core util recorded parsing information ,0,1,0,0,0,0
+core::formatter::CodeFormatter ,3,25,13,0,N,core formatter code formatter ,4,0,0,0,0,1
+internal::compiler::ast::MagicLiteral ,12,17,0,0,N,internal compiler ast magic literal ,0,1,0,0,0,0
+internal::core::BufferCache ,32,25,3,0,N,internal core buffer cache ,4,0,0,0,0,1
+internal::compiler::classfmt::AnnotationInfo ,316,6,1,0,N,internal compiler classfmt annotation info ,0,1,0,0,0,0
+core::dom::rewrite::ListRewrite ,128,15,3,0,N,core dom rewrite list rewrite ,1,0,1,0,0,0
+internal::formatter::FormatJavadocReference ,10,3,3,0,N,internal formatter format javadoc reference ,1,0,1,0,0,0
+internal::core::CreateInitializerOperation ,59,37,7,0,N,internal core create initializer operation ,2,0,0,1,0,0
+internal::core::dom::rewrite::TokenScanner ,78,14,2,0,N,internal core dom rewrite token scanner ,0,1,0,0,0,0
+internal::core::builder::AbortIncrementalBuildException ,3,8,0,0,N,internal core builder abort incremental build exception ,0,1,0,0,0,0
+internal::compiler::ReadManager ,153,1,1,2,Y,internal compiler read manager ,4,0,0,0,0,1
+core::search::SearchMatch ,111,39,13,0,N,core search search match ,3,0,0,0,1,0
+core::dom::rewrite::TargetSourceRangeComputer ,11,4,2,0,N,core dom rewrite target source range computer ,0,1,0,0,0,0
+internal::core::index::DiskIndex ,1117,91,40,0,N,internal core index disk index ,4,0,0,0,0,1
+internal::core::JarEntryDirectory ,32,2,1,0,N,internal core jar entry directory ,0,1,0,0,0,0
+internal::eval::CodeSnippetReturnStatement ,101,48,3,1,Y,internal eval code snippet return statement ,4,0,0,0,0,1
+internal::core::util::RuntimeVisibleParameterAnnotationsAttribute ,22,5,0,0,N,internal core util runtime visible parameter annotations attribute ,0,1,0,0,0,0
+internal::compiler::impl::LongConstant ,40,34,1,0,N,internal compiler impl long constant ,0,1,0,0,0,0
+internal::compiler::parser::RecoveredType ,468,79,12,0,N,internal compiler parser recovered type ,0,1,0,0,0,0
+internal::compiler::lookup::SyntheticArgumentBinding ,10,21,4,0,N,internal compiler lookup synthetic argument binding ,0,1,0,0,0,0
+core::CompletionRequestor ,79,18,10,0,N,core completion requestor ,4,0,0,0,0,1
+core::search::TypeDeclarationMatch ,3,16,0,0,N,core search type declaration match ,3,0,0,0,1,0
+internal::codeassist::select::SelectionOnQualifiedAllocationExpression ,59,37,4,0,N,internal codeassist select selection on qualified allocation expression ,1,0,1,0,0,0
+internal::compiler::ast::EqualExpression ,799,90,21,0,N,internal compiler ast equal expression ,0,1,0,0,0,0
+internal::core::jdom::CompilationUnit ,30,29,0,0,N,internal core jdom compilation unit ,2,0,0,1,0,0
+internal::core::search::matching::ConstructorLocator ,222,37,12,1,Y,internal core search matching constructor locator ,3,0,0,0,1,0
+internal::compiler::parser::RecoveredUnit ,158,46,6,0,N,internal compiler parser recovered unit ,0,1,0,0,0,0
+internal::core::dom::rewrite::LineInformation ,10,3,0,0,N,internal core dom rewrite line information ,1,0,1,0,0,0
+internal::core::TypeParameterElementInfo ,0,3,0,0,N,internal core type parameter element info ,0,1,0,0,0,0
+internal::eval::CodeSnippetMessageSend ,311,78,12,2,Y,internal eval code snippet message send ,4,0,0,0,0,1
+core::dom::EnumDeclaration ,118,34,8,0,N,core dom enum declaration ,2,0,0,1,0,0
+core::search::LocalVariableDeclarationMatch ,3,16,0,0,N,core search local variable declaration match ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionOnSingleTypeReference ,63,38,5,0,N,internal codeassist complete completion on single type reference ,4,0,0,0,0,1
+core::dom::PostfixExpression ,96,36,8,0,N,core dom postfix expression ,2,0,0,1,0,0
+internal::core::search::indexing::IndexRequest ,24,30,0,0,N,internal core search indexing index request ,4,0,0,0,0,1
+internal::core::util::AnnotationDefaultAttribute ,7,5,0,0,N,internal core util annotation default attribute ,0,1,0,0,0,0
+core::dom::TryStatement ,108,37,8,0,N,core dom try statement ,2,0,0,1,0,0
+core::dom::VariableDeclaration ,15,17,3,0,N,core dom variable declaration ,2,0,0,1,0,0
+internal::codeassist::complete::CompletionOnMethodTypeParameter ,22,11,1,0,N,internal codeassist complete completion on method type parameter ,4,0,0,0,0,1
+internal::compiler::ast::MarkerAnnotation ,16,14,2,0,N,internal compiler ast marker annotation ,0,1,0,0,0,0
+internal::compiler::ast::FloatLiteral ,85,24,2,0,N,internal compiler ast float literal ,0,1,0,0,0,0
+internal::compiler::ast::WhileStatement ,232,78,15,0,N,internal compiler ast while statement ,3,0,0,0,1,0
+internal::formatter::DefaultCodeFormatterOptions ,2140,110,63,2,Y,internal formatter default code formatter options ,4,0,0,0,0,1
+internal::core::ClasspathValidation ,51,0,0,1,Y,internal core classpath validation ,3,0,0,0,1,0
+internal::compiler::lookup::ProblemPackageBinding ,6,16,0,0,N,internal compiler lookup problem package binding ,0,1,0,0,0,0
+internal::core::search::JavaSearchDocument ,51,19,3,0,N,internal core search java search document ,3,0,0,0,1,0
+core::dom::Statement ,48,35,7,0,N,core dom statement ,2,0,0,1,0,0
+internal::compiler::ast::Statement ,99,58,9,0,N,internal compiler ast statement ,3,0,0,0,1,0
+core::dom::ImportDeclaration ,121,45,10,0,N,core dom import declaration ,2,0,0,1,0,0
+internal::codeassist::select::SelectionOnFieldReference ,23,28,1,0,N,internal codeassist select selection on field reference ,1,0,1,0,0,0
+internal::core::PackageDeclaration ,30,38,4,0,N,internal core package declaration ,2,0,0,1,0,0
+core::dom::CompilationUnitResolver ,282,154,54,0,N,core dom compilation unit resolver ,2,0,0,1,0,0
+internal::core::TypeVector ,78,24,0,0,N,internal core type vector ,3,0,0,0,1,0
+internal::compiler::ast::FalseLiteral ,38,23,2,0,N,internal compiler ast false literal ,0,1,0,0,0,0
+internal::core::SourceRefElementInfo ,15,16,0,0,N,internal core source ref element info ,0,1,0,0,0,0
+internal::core::SourceFieldElementInfo ,12,20,3,0,N,internal core source field element info ,0,1,0,0,0,0
+internal::compiler::ast::ConditionalExpression ,445,117,24,0,N,internal compiler ast conditional expression ,0,1,0,0,0,0
+internal::core::JarEntryFile ,38,31,1,0,N,internal core jar entry file ,0,1,0,0,0,0
+internal::codeassist::complete::CompletionOnMemberAccess ,38,31,3,0,N,internal codeassist complete completion on member access ,4,0,0,0,0,1
+internal::core::util::ExceptionTableEntry ,28,10,0,0,N,internal core util exception table entry ,3,0,0,0,1,0
+internal::compiler::ast::FieldReference ,547,149,43,6,Y,internal compiler ast field reference ,3,0,0,0,1,0
+internal::core::CommitWorkingCopyOperation ,141,72,14,0,N,internal core commit working copy operation ,2,0,0,1,0,0
+internal::compiler::parser::RecoveredField ,186,46,7,0,N,internal compiler parser recovered field ,0,1,0,0,0,0
+internal::core::UserLibraryManager ,128,21,6,0,N,internal core user library manager ,3,0,0,0,1,0
+internal::core::SourceTypeElementInfo ,193,47,7,0,N,internal core source type element info ,0,1,0,0,0,0
+internal::compiler::ast::JavadocAllocationExpression ,142,45,27,0,N,internal compiler ast javadoc allocation expression ,3,0,0,0,1,0
+internal::compiler::classfmt::MethodInfo ,392,67,13,0,N,internal compiler classfmt method info ,0,1,0,0,0,0
+core::JavaCore ,1058,708,172,4,Y,core java core ,3,0,0,0,1,0
+internal::core::util::CodeAttribute ,1081,29,4,1,Y,internal core util code attribute ,0,1,0,0,0,0
+internal::core::eval::GlobalVariableWrapper ,17,13,0,0,N,internal core eval global variable wrapper ,4,0,0,0,0,1
+internal::compiler::classfmt::ClassFileStruct ,67,40,2,0,N,internal compiler classfmt class file struct ,0,1,0,0,0,0
+core::dom::TextElement ,63,22,5,0,N,core dom text element ,2,0,0,1,0,0
+internal::codeassist::select::SelectionJavadocParser ,123,8,4,0,N,internal codeassist select selection javadoc parser ,1,0,1,0,0,0
+internal::core::BinaryField ,81,44,9,2,Y,internal core binary field ,3,0,0,0,1,0
+internal::core::util::CommentRecorderParser ,193,34,24,1,Y,internal core util comment recorder parser ,0,1,0,0,0,0
+core::dom::DocCommentParser ,638,47,36,1,Y,core dom doc comment parser ,1,0,1,0,0,0
+internal::compiler::ast::MemberValuePair ,189,40,16,0,N,internal compiler ast member value pair ,0,1,0,0,0,0
+internal::compiler::impl::Constant ,1500,45,7,0,N,internal compiler impl constant ,0,1,0,0,0,0
+core::dom::MethodInvocation ,137,45,11,0,N,core dom method invocation ,2,0,0,1,0,0
+internal::core::util::StackMapTableAttribute ,33,3,1,0,N,internal core util stack map table attribute ,2,0,0,1,0,0
+internal::core::PackageFragment ,356,103,23,0,N,internal core package fragment ,2,0,0,1,0,0
+internal::codeassist::select::SelectionOnQualifiedTypeReference ,38,32,3,0,N,internal codeassist select selection on qualified type reference ,1,0,1,0,0,0
+internal::core::search::JavaSearchTypeNameMatch ,35,0,1,0,N,internal core search java search type name match ,3,0,0,0,1,0
+internal::core::search::indexing::IndexManager ,644,197,33,3,Y,internal core search indexing index manager ,4,0,0,0,0,1
+internal::core::JarPackageFragment ,127,50,6,0,N,internal core jar package fragment ,2,0,0,1,0,0
+internal::codeassist::impl::AssistImportDeclaration ,7,0,1,0,N,internal codeassist impl assist import declaration ,1,0,1,0,0,0
+internal::compiler::ast::IntLiteral ,110,30,4,0,N,internal compiler ast int literal ,0,1,0,0,0,0
+internal::compiler::parser::Parser ,0,519,173,4,Y,internal compiler parser parser ,0,1,0,0,0,0
+internal::core::builder::State ,560,73,18,1,Y,internal core builder state ,0,1,0,0,0,0
+internal::eval::CodeSnippetEvaluator ,144,39,8,0,N,internal eval code snippet evaluator ,4,0,0,0,0,1
+core::dom::TypeDeclarationStatement ,123,51,12,0,N,core dom type declaration statement ,2,0,0,1,0,0
+internal::compiler::batch::ClasspathJar ,155,56,9,1,Y,internal compiler batch classpath jar ,0,1,0,0,0,0
+internal::core::search::matching::JavaSearchNameEnvironment ,140,31,10,0,N,internal core search matching java search name environment ,3,0,0,0,1,0
+internal::eval::InstallException ,3,17,0,0,N,internal eval install exception ,3,0,0,0,1,0
+internal::core::search::HierarchyScope ,240,55,6,0,N,internal core search hierarchy scope ,3,0,0,0,1,0
+core::search::TypeNameMatch ,23,9,10,0,N,core search type name match ,3,0,0,0,1,0
+internal::core::SearchableEnvironmentRequestor ,44,24,7,0,N,internal core searchable environment requestor ,3,0,0,0,1,0
+internal::compiler::batch::CompilationUnit ,50,38,4,0,N,internal compiler batch compilation unit ,0,1,0,0,0,0
+internal::core::dom::NaiveASTFlattener ,48,0,1,0,N,internal core dom naive flattener ,1,0,1,0,0,0
+internal::compiler::lookup::MethodVerifier15 ,747,105,80,8,Y,internal compiler lookup method verifier ,0,1,0,0,0,0
+internal::compiler::parser::RecoveryScannerData ,42,1,1,0,N,internal compiler parser recovery scanner data ,0,1,0,0,0,0
+internal::core::search::matching::InternalSearchPattern ,64,16,4,1,Y,internal core search matching internal search pattern ,3,0,0,0,1,0
+internal::formatter::DefaultCodeFormatter ,370,87,31,0,N,internal formatter default code formatter ,4,0,0,0,0,1
+core::dom::MemberValuePair ,109,31,6,0,N,core dom member value pair ,2,0,0,1,0,0
+internal::codeassist::complete::CompletionOnImportReference ,12,25,0,0,N,internal codeassist complete completion on import reference ,4,0,0,0,0,1
+internal::core::UserLibrary ,141,24,9,0,N,internal core user library ,3,0,0,0,1,0
+internal::compiler::ast::BinaryExpression ,1782,80,18,0,N,internal compiler ast binary expression ,3,0,0,0,1,0
+internal::core::builder::ClasspathLocation ,18,25,5,0,N,internal core builder classpath location ,0,1,0,0,0,0
+internal::core::ResolvedSourceType ,26,10,4,0,N,internal core resolved source type ,3,0,0,0,1,0
+internal::core::DiscardWorkingCopyOperation ,41,12,6,0,N,internal core discard working copy operation ,2,0,0,1,0,0
+core::dom::ChildPropertyDescriptor ,18,8,1,0,N,core dom child property descriptor ,4,0,0,0,0,1
+internal::codeassist::impl::AssistOptions ,155,35,8,0,N,internal codeassist impl assist options ,1,0,1,0,0,0
+internal::compiler::lookup::WildcardBinding ,533,98,28,1,Y,internal compiler lookup wildcard binding ,0,1,0,0,0,0
+internal::compiler::ast::ArrayAllocationExpression ,142,54,5,0,N,internal compiler ast array allocation expression ,3,0,0,0,1,0
+internal::core::search::matching::SecondaryTypeDeclarationPattern ,13,1,1,1,Y,internal core search matching secondary type declaration pattern ,3,0,0,0,1,0
+core::dom::EnhancedForStatement ,141,34,5,0,N,core dom enhanced for statement ,2,0,0,1,0,0
+internal::core::JavaElementRequestor ,105,16,0,0,N,internal core java element requestor ,3,0,0,0,1,0
+internal::compiler::lookup::Scope ,2877,449,214,8,Y,internal compiler lookup scope ,0,1,0,0,0,0
+core::dom::BindingComparator ,3,30,19,0,N,core dom binding comparator ,2,0,0,1,0,0
+internal::formatter::AbortFormatting ,4,7,0,0,N,internal formatter abort formatting ,0,1,0,0,0,0
+internal::core::util::ResourceCompilationUnit ,15,8,3,0,N,internal core util resource compilation unit ,2,0,0,1,0,0
+internal::core::CompilationUnitProblemFinder ,57,73,21,0,N,internal core compilation unit problem finder ,2,0,0,1,0,0
+internal::compiler::ast::PostfixExpression ,39,35,0,0,N,internal compiler ast postfix expression ,0,1,0,0,0,0
+internal::compiler::problem::ProblemReporter ,6571,478,194,8,Y,internal compiler problem problem reporter ,0,1,0,0,0,0
+internal::codeassist::complete::CompletionOnKeyword1 ,23,11,2,0,N,internal codeassist complete completion on keyword ,4,0,0,0,0,1
+internal::compiler::lookup::ClassScope ,1091,238,82,1,Y,internal compiler lookup class scope ,0,1,0,0,0,0
+internal::core::search::PathCollector ,12,20,1,0,N,internal core search path collector ,3,0,0,0,1,0
+internal::compiler::ast::BranchStatement ,39,34,10,0,N,internal compiler ast branch statement ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionJavadoc ,222,5,1,0,N,internal codeassist complete completion javadoc ,4,0,0,0,0,1
+internal::formatter::Scribe ,3184,171,102,9,Y,internal formatter scribe ,1,0,1,0,0,0
+internal::core::MemberElementInfo ,18,21,2,0,N,internal core member element info ,2,0,0,1,0,0
+internal::codeassist::impl::AssistPackageDeclaration ,10,0,1,0,N,internal codeassist impl assist package declaration ,1,0,1,0,0,0
+core::search::SearchParticipant ,30,38,11,0,N,core search search participant ,3,0,0,0,1,0
+internal::compiler::problem::AbortType ,3,17,3,0,N,internal compiler problem abort type ,0,1,0,0,0,0
+internal::compiler::parser::RecoveredAnnotation ,184,1,2,0,N,internal compiler parser recovered annotation ,0,1,0,0,0,0
+internal::core::util::LocalVariableTableEntry ,38,8,0,0,N,internal core util local variable table entry ,3,0,0,0,1,0
+internal::compiler::codegen::LongCache ,94,30,1,0,N,internal compiler codegen long cache ,0,1,0,0,0,0
+internal::core::search::matching::MatchingNodeSet ,149,45,9,0,N,internal core search matching matching node set ,3,0,0,0,1,0
+internal::core::search::indexing::SourceIndexerRequestor ,235,62,20,0,N,internal core search indexing source indexer requestor ,4,0,0,0,0,1
+internal::compiler::ast::QualifiedNameReference ,986,170,48,7,Y,internal compiler ast qualified name reference ,3,0,0,0,1,0
+internal::compiler::classfmt::InnerClassInfo ,72,29,3,0,N,internal compiler classfmt inner class info ,0,1,0,0,0,0
+internal::codeassist::select::SelectionOnParameterizedQualifiedTypeReference ,43,14,3,0,N,internal codeassist select selection on parameterized qualified type reference ,3,0,0,0,1,0
+internal::core::search::matching::LocalVariablePattern ,43,33,8,0,N,internal core search matching local variable pattern ,3,0,0,0,1,0
+internal::compiler::codegen::CodeStream ,6017,216,66,3,Y,internal compiler codegen code stream ,0,1,0,0,0,0
+core::dom::StringLiteral ,166,50,10,1,Y,core dom string literal ,0,1,0,0,0,0
+internal::core::MovePackageFragmentRootOperation ,231,20,3,0,N,internal core move package fragment root operation ,2,0,0,1,0,0
+internal::compiler::codegen::StackMapFrameCodeStream ,395,28,17,2,Y,internal compiler codegen stack map frame code stream ,0,1,0,0,0,0
+internal::formatter::align::Alignment ,270,34,18,0,N,internal formatter align alignment ,0,1,0,0,0,0
+internal::codeassist::complete::InvalidCursorLocation ,3,29,0,0,N,internal codeassist complete invalid cursor location ,4,0,0,0,0,1
+internal::core::search::SubTypeSearchJob ,24,53,2,0,N,internal core search sub type search job ,3,0,0,0,1,0
+internal::core::ChangeClasspathOperation ,63,11,7,0,N,internal core change classpath operation ,3,0,0,0,1,0
+internal::formatter::CascadingMethodInvocationFragmentBuilder ,26,8,4,0,N,internal formatter cascading method invocation fragment builder ,0,1,0,0,0,0
+internal::core::util::ASTNodeFinder ,129,13,3,0,N,internal core util node finder ,0,1,0,0,0,0
+internal::codeassist::complete::CompletionOnParameterizedQualifiedTypeReference ,67,14,2,0,N,internal codeassist complete completion on parameterized qualified type reference ,3,0,0,0,1,0
+core::search::LocalVariableReferenceMatch ,12,20,2,0,N,core search local variable reference match ,3,0,0,0,1,0
+internal::compiler::parser::diagnose::RangeUtil ,60,13,5,0,N,internal compiler parser diagnose range util ,0,1,0,0,0,0
+internal::core::builder::QualifiedNameSet ,44,9,1,0,N,internal core builder qualified name set ,3,0,0,0,1,0
+internal::codeassist::CompletionUnitStructureRequestor ,128,1,2,0,N,internal codeassist completion unit structure requestor ,4,0,0,0,0,1
+internal::core::util::InnerClassesAttribute ,21,15,1,0,N,internal core util inner classes attribute ,0,1,0,0,0,0
+internal::compiler::env::AccessRestriction ,11,15,4,0,N,internal compiler env access restriction ,1,0,1,0,0,0
+internal::eval::CodeSnippetThisReference ,75,43,2,0,N,internal eval code snippet this reference ,4,0,0,0,0,1
+internal::core::PackageFragmentInfo ,25,40,2,0,N,internal core package fragment info ,2,0,0,1,0,0
+internal::compiler::lookup::ImportConflictBinding ,10,2,1,0,N,internal compiler lookup import conflict binding ,0,1,0,0,0,0
+core::dom::PrefixExpression ,97,37,8,0,N,core dom prefix expression ,2,0,0,1,0,0
+internal::compiler::parser::diagnose::LexStream ,212,14,6,0,N,internal compiler parser diagnose lex stream ,0,1,0,0,0,0
+internal::core::search::indexing::AbstractIndexer ,137,55,8,0,N,internal core search indexing abstract indexer ,4,0,0,0,0,1
+core::dom::Annotation ,53,20,5,0,N,core dom annotation ,2,0,0,1,0,0
+internal::core::ClasspathAttribute ,21,1,0,0,N,internal core classpath attribute ,0,1,0,0,0,0
+internal::compiler::lookup::BinaryLocalVariableBinding ,7,0,0,0,N,internal compiler lookup binary local variable binding ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionNodeDetector ,29,17,3,0,N,internal codeassist complete completion node detector ,1,0,1,0,0,0
+core::dom::IfStatement ,128,40,10,0,N,core dom if statement ,2,0,0,1,0,0
+internal::core::search::matching::QualifiedTypeDeclarationPattern ,100,47,10,1,Y,internal core search matching qualified type declaration pattern ,3,0,0,0,1,0
+internal::compiler::ast::LocalDeclaration ,209,92,29,0,N,internal compiler ast local declaration ,3,0,0,0,1,0
+internal::core::hierarchy::ChangeCollector ,254,10,2,0,N,internal core hierarchy change collector ,3,0,0,0,1,0
+internal::codeassist::select::SelectionParser ,1189,115,25,1,Y,internal codeassist select selection parser ,1,0,1,0,0,0
+core::dom::Comment ,24,8,0,0,N,core dom comment ,2,0,0,1,0,0
+internal::core::search::matching::DeclarationOfAccessedFieldsPattern ,7,29,3,1,Y,internal core search matching declaration of accessed fields pattern ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionOnJavadocFieldReference ,76,5,4,0,N,internal codeassist complete completion on javadoc field reference ,4,0,0,0,0,1
+internal::core::JavaModelCache ,166,37,7,1,Y,internal core java model cache ,3,0,0,0,1,0
+internal::compiler::util::HashtableOfPackage ,79,30,1,0,N,internal compiler util hashtable of package ,0,1,0,0,0,0
+internal::core::ResolvedSourceMethod ,23,7,2,0,N,internal core resolved source method ,0,1,0,0,0,0
+internal::core::Member ,312,59,19,0,N,internal core member ,2,0,0,1,0,0
+internal::core::SourceMapper ,909,166,48,1,Y,internal core source mapper ,4,0,0,0,0,1
+core::util::OpcodeStringValues ,0,14,2,1,Y,core util opcode string values ,4,0,0,0,0,1
+core::formatter::IndentManipulation ,235,6,3,0,N,core formatter indent manipulation ,0,1,0,0,0,0
+core::dom::AbstractTypeDeclaration ,61,21,6,0,N,core dom abstract type declaration ,3,0,0,0,1,0
+core::dom::SwitchCase ,75,39,9,0,N,core dom switch case ,2,0,0,1,0,0
+internal::compiler::SourceElementParser ,849,123,21,0,N,internal compiler source element parser ,0,1,0,0,0,0
+core::dom::TypeLiteral ,72,36,8,0,N,core dom type literal ,2,0,0,1,0,0
+internal::compiler::ast::StringLiteralConcatenation ,46,5,1,0,N,internal compiler ast string literal concatenation ,0,1,0,0,0,0
+internal::core::search::PatternSearchJob ,75,71,8,0,N,internal core search pattern search job ,3,0,0,0,1,0
+internal::compiler::ast::DoStatement ,163,72,17,0,N,internal compiler ast do statement ,3,0,0,0,1,0
+internal::core::util::Util ,1892,154,68,4,Y,internal core util util ,0,1,0,0,0,0
+internal::codeassist::select::SelectionNodeFound ,4,25,2,0,N,internal codeassist select selection node found ,1,0,1,0,0,0
+internal::eval::CodeSnippetSkeleton ,66,52,8,0,N,internal eval code snippet skeleton ,4,0,0,0,0,1
+core::search::TypeNameRequestor ,3,6,3,0,N,core search type name requestor ,3,0,0,0,1,0
+internal::core::search::matching::PackageReferenceLocator ,256,64,26,3,Y,internal core search matching package reference locator ,3,0,0,0,1,0
+internal::core::dom::rewrite::SourceModifier ,18,14,1,0,N,internal core dom rewrite source modifier ,2,0,0,1,0,0
+internal::codeassist::complete::CompletionOnMessageSendName ,44,2,2,0,N,internal codeassist complete completion on message send name ,4,0,0,0,0,1
+internal::compiler::problem::ProblemHandler ,38,42,13,0,N,internal compiler problem problem handler ,0,1,0,0,0,0
+internal::core::DeltaProcessingState ,419,62,26,1,Y,internal core delta processing state ,0,1,0,0,0,0
+internal::core::SetClasspathOperation ,44,180,32,1,Y,internal core set classpath operation ,3,0,0,0,1,0
+internal::core::jdom::DOMCompilationUnit ,89,46,5,0,N,internal core jdom compilation unit ,2,0,0,1,0,0
+internal::core::SetVariablesOperation ,152,7,4,0,N,internal core set variables operation ,3,0,0,0,1,0
+core::dom::MarkerAnnotation ,54,22,4,0,N,core dom marker annotation ,2,0,0,1,0,0
+internal::core::search::matching::TypeDeclarationPattern ,240,81,16,1,Y,internal core search matching type declaration pattern ,3,0,0,0,1,0
+internal::codeassist::select::SelectionOnSuperReference ,16,27,1,0,N,internal codeassist select selection on super reference ,1,0,1,0,0,0
+internal::core::JavaModelManager ,2475,458,141,9,Y,internal core java model manager ,3,0,0,0,1,0
+internal::core::BufferManager ,70,44,4,0,N,internal core buffer manager ,4,0,0,0,0,1
+internal::core::search::matching::ClasspathSourceDirectory ,72,25,7,0,N,internal core search matching classpath source directory ,3,0,0,0,1,0
+internal::core::search::indexing::AddJarFileToIndex ,195,100,5,1,Y,internal core search indexing add jar file to index ,4,0,0,0,0,1
+core::dom::SingleVariableDeclaration ,257,64,13,0,N,core dom single variable declaration ,2,0,0,1,0,0
+internal::compiler::ast::SuperReference ,41,38,2,0,N,internal compiler ast super reference ,3,0,0,0,1,0
+internal::core::util::ToStringSorter ,42,20,0,0,N,internal core util to string sorter ,4,0,0,0,0,1
+internal::compiler::ast::DoubleLiteral ,85,24,2,0,N,internal compiler ast double literal ,0,1,0,0,0,0
+internal::compiler::util::HashtableOfIntValues ,115,6,0,0,N,internal compiler util hashtable of int values ,0,1,0,0,0,0
+internal::compiler::classfmt::FieldInfoWithAnnotation ,40,3,0,0,N,internal compiler classfmt field info with annotation ,0,1,0,0,0,0
+internal::compiler::ast::Clinit ,231,72,14,2,Y,internal compiler ast clinit ,0,1,0,0,0,0
+internal::codeassist::complete::CompletionOnKeyword2 ,18,13,2,0,N,internal codeassist complete completion on keyword ,4,0,0,0,0,1
+core::compiler::CompilationProgress ,0,0,1,0,N,core compiler compilation progress ,2,0,0,1,0,0
+internal::core::dom::rewrite::ImportRewriteAnalyzer ,606,10,7,1,Y,internal core dom rewrite import rewrite analyzer ,1,0,1,0,0,0
+internal::compiler::lookup::SyntheticMethodBinding ,166,25,10,2,Y,internal compiler lookup synthetic method binding ,0,1,0,0,0,0
+internal::core::dom::rewrite::NodeInfoStore ,74,13,3,0,N,internal core dom rewrite node info store ,1,0,1,0,0,0
+core::dom::QualifiedName ,110,49,14,0,N,core dom qualified name ,3,0,0,0,1,0
+core::dom::SuperConstructorInvocation ,101,39,8,0,N,core dom super constructor invocation ,2,0,0,1,0,0
+core::ClasspathVariableInitializer ,3,13,0,0,N,core classpath variable initializer ,3,0,0,0,1,0
+internal::core::ClassFile ,549,164,44,0,N,internal core class file ,0,1,0,0,0,0
+internal::compiler::util::HashtableOfLong ,74,8,1,0,N,internal compiler util hashtable of long ,0,1,0,0,0,0
+internal::compiler::codegen::BranchLabel ,199,16,9,1,Y,internal compiler codegen branch label ,0,1,0,0,0,0
+internal::core::util::LocalVariableTypeTableEntry ,38,5,0,0,N,internal core util local variable type table entry ,3,0,0,0,1,0
+internal::compiler::lookup::AnnotationHolder ,32,3,0,0,N,internal compiler lookup annotation holder ,0,1,0,0,0,0
+internal::compiler::ast::CompoundAssignment ,150,74,6,0,N,internal compiler ast compound assignment ,3,0,0,0,1,0
+core::search::TypeParameterReferenceMatch ,4,2,1,0,N,core search type parameter reference match ,3,0,0,0,1,0
+internal::core::ClasspathAccessRule ,27,6,2,0,N,internal core classpath access rule ,3,0,0,0,1,0
+internal::core::CompilationUnit ,830,290,73,1,Y,internal core compilation unit ,2,0,0,1,0,0
+internal::core::search::matching::SuperTypeNamesCollector ,162,71,14,0,N,internal core search matching super type names collector ,3,0,0,0,1,0
+internal::core::DocumentAdapter ,12,1,1,0,N,internal core document adapter ,3,0,0,0,1,0
+internal::compiler::lookup::MethodVerifier ,736,130,49,3,Y,internal compiler lookup method verifier ,0,1,0,0,0,0
+internal::core::jdom::DOMInitializer ,89,38,4,0,N,internal core jdom initializer ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionOnJavadocTypeParamReference ,17,5,3,0,N,internal codeassist complete completion on javadoc type param reference ,4,0,0,0,0,1
+internal::codeassist::complete::CompletionOnQualifiedTypeReference ,63,34,3,0,N,internal codeassist complete completion on qualified type reference ,4,0,0,0,0,1
+internal::compiler::ast::SingleMemberAnnotation ,34,19,2,0,N,internal compiler ast single member annotation ,0,1,0,0,0,0
+internal::core::util::BindingKeyResolver ,435,55,27,0,N,internal core util binding key resolver ,2,0,0,1,0,0
+internal::compiler::ast::CharLiteral ,72,25,1,0,N,internal compiler ast char literal ,0,1,0,0,0,0
+internal::codeassist::impl::AssistParser ,1384,112,34,0,N,internal codeassist impl assist parser ,1,0,1,0,0,0
+internal::core::ImportDeclaration ,57,47,7,0,N,internal core import declaration ,2,0,0,1,0,0
+internal::core::jdom::SiblingEnumeration ,13,16,1,0,N,internal core jdom sibling enumeration ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionOnSingleNameReference ,17,29,3,0,N,internal codeassist complete completion on single name reference ,4,0,0,0,0,1
+internal::core::Initializer ,67,47,7,0,N,internal core initializer ,3,0,0,0,1,0
+core::dom::rewrite::ASTRewrite ,281,46,13,1,Y,core dom rewrite rewrite ,1,0,1,0,0,0
+internal::core::search::indexing::RemoveFromIndex ,25,46,1,0,N,internal core search indexing remove from index ,4,0,0,0,0,1
+internal::compiler::ast::NameReference ,34,24,3,0,N,internal compiler ast name reference ,3,0,0,0,1,0
+core::dom::EnumConstantDeclaration ,141,38,9,0,N,core dom enum constant declaration ,2,0,0,1,0,0
+internal::core::search::matching::FieldLocator ,274,67,24,1,Y,internal core search matching field locator ,3,0,0,0,1,0
+internal::core::SourceField ,120,60,13,0,N,internal core source field ,0,1,0,0,0,0
+core::dom::DefaultBindingResolver ,1106,188,110,1,Y,core dom default binding resolver ,2,0,0,1,0,0
+internal::compiler::parser::RecoveredLocalVariable ,107,33,2,0,N,internal compiler parser recovered local variable ,0,1,0,0,0,0
+internal::codeassist::select::SelectionOnParameterizedSingleTypeReference ,21,3,0,0,N,internal codeassist select selection on parameterized single type reference ,3,0,0,0,1,0
+internal::formatter::comment::JavaDocLine ,15,2,1,0,N,internal formatter comment java doc line ,1,0,1,0,0,0
+internal::codeassist::complete::CompletionOnBrankStatementLabel ,23,3,1,0,N,internal codeassist complete completion on brank statement label ,4,0,0,0,0,1
+core::dom::QualifiedType ,107,34,6,0,N,core dom qualified type ,3,0,0,0,1,0
+internal::core::ReconcileWorkingCopyOperation ,190,70,31,0,N,internal core reconcile working copy operation ,2,0,0,1,0,0
+internal::core::builder::CompilationParticipantResult ,19,6,3,0,N,internal core builder compilation participant result ,2,0,0,1,0,0
+core::compiler::CompilationParticipant ,24,18,5,1,Y,core compiler compilation participant ,2,0,0,1,0,0
+internal::compiler::lookup::MethodBinding ,724,142,34,3,Y,internal compiler lookup method binding ,0,1,0,0,0,0
+internal::core::hierarchy::HierarchyResolver ,629,112,36,0,N,internal core hierarchy hierarchy resolver ,3,0,0,0,1,0
+internal::compiler::ast::ParameterizedSingleTypeReference ,244,71,29,1,Y,internal compiler ast parameterized single type reference ,3,0,0,0,1,0
+internal::codeassist::complete::CompletionOnJavadocMessageSend ,56,3,3,0,N,internal codeassist complete completion on javadoc message send ,4,0,0,0,0,1
+internal::core::search::indexing::AddFolderToIndex ,79,32,5,0,N,internal core search indexing add folder to index ,4,0,0,0,0,1
+internal::core::BasicCompilationUnit ,71,43,3,0,N,internal core basic compilation unit ,2,0,0,1,0,0
+internal::compiler::lookup::BinaryTypeBinding ,947,177,46,1,Y,internal compiler lookup binary type binding ,0,1,0,0,0,0
+internal::compiler::lookup::RawTypeBinding ,129,66,24,0,N,internal compiler lookup raw type binding ,0,1,0,0,0,0
+internal::core::SortElementsOperation ,281,49,14,0,N,internal core sort elements operation ,2,0,0,1,0,0
+internal::compiler::lookup::CompilationUnitScope ,687,148,34,4,Y,internal compiler lookup compilation unit scope ,0,1,0,0,0,0
+core::search::FieldDeclarationMatch ,3,17,0,0,N,core search field declaration match ,3,0,0,0,1,0
+core::jdom::DOMException ,3,21,1,0,N,core jdom exception ,3,0,0,0,1,0
+internal::compiler::flow::UnconditionalFlowInfo ,1440,70,15,0,N,internal compiler flow unconditional flow info ,0,1,0,0,0,0
+internal::core::util::ConstantValueAttribute ,11,14,0,0,N,internal core util constant value attribute ,0,1,0,0,0,0
+internal::codeassist::complete::CompletionOnClassLiteralAccess ,17,27,0,0,N,internal codeassist complete completion on class literal access ,4,0,0,0,0,1
+internal::compiler::batch::FileSystem ,198,64,18,0,N,internal compiler batch file system ,0,1,0,0,0,0
+internal::compiler::problem::ShouldNotImplement ,3,18,0,0,N,internal compiler problem should not implement ,0,1,0,0,0,0
+internal::codeassist::complete::CompletionScanner ,796,85,24,0,N,internal codeassist complete completion scanner ,4,0,0,0,0,1
+internal::compiler::ast::NumberLiteral ,11,17,0,0,N,internal compiler ast number literal ,0,1,0,0,0,0
+internal::eval::CodeSnippetScope ,308,63,11,2,Y,internal eval code snippet scope ,4,0,0,0,0,1
+internal::codeassist::select::SelectionOnImportReference ,12,25,0,0,N,internal codeassist select selection on import reference ,1,0,1,0,0,0
+internal::compiler::codegen::Label ,3,57,10,0,N,internal compiler codegen label ,0,1,0,0,0,0
+internal::compiler::ast::JavadocQualifiedTypeReference ,48,34,23,0,N,internal compiler ast javadoc qualified type reference ,3,0,0,0,1,0
+internal::core::search::matching::JavaSearchPattern ,306,33,21,1,Y,internal core search matching java search pattern ,3,0,0,0,1,0
+core::dom::RecoveredVariableBinding ,87,2,4,0,N,core dom recovered variable binding ,2,0,0,1,0,0
+core::CompletionProposal ,347,50,19,1,Y,core completion proposal ,2,0,0,1,0,0
